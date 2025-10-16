@@ -5,7 +5,7 @@ title: Home
 
 # {{ site.title }}
 
-Hi — I’m **Your Name**. I make music, VR instruments, and new‑media experiments.
+Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
 
 <nav class="site-nav">
   <a href="{{ '/blog/' | relative_url }}">Blog</a>
