@@ -1,7 +1,7 @@
 title: Phonophasm
 description: "Portfolio • Blog • Experiments"
 url: "https://phonophasm.github.io"
-baseurl: ""
+# baseurl: ""
 
 # Use an official GitHub Pages theme via remote_theme
 remote_theme: pages-themes/minimal@v0.2.0
