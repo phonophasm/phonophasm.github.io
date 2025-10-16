@@ -1,4 +1,4 @@
-title: Your Name
+title: Phonophasm
 description: "Portfolio • Blog • Experiments"
 url: "https://your-username.github.io"
 baseurl: ""
@@ -32,8 +32,8 @@ defaults:
 
 # Optional social/user metadata (fill these in later)
 author:
-  name: "Your Name"
-  email: "you@example.com"
+  name: "Peter Harrison"
+  email: "heterparrison@gmail.com"
   home: "Taiwan & Northern Ireland"
 
 # If you ever host this as a project site (not username.github.io) set baseurl: "/repo-name"
