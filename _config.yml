@@ -1,0 +1,40 @@
+title: Your Name
+description: "Portfolio • Blog • Experiments"
+url: "https://your-username.github.io"
+baseurl: ""
+
+# Use an official GitHub Pages theme via remote_theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Pretty URLs like /blog/my-post/
+permalink: pretty
+
+# Collections for projects (each project gets its own page)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: default
+
+# Optional social/user metadata (fill these in later)
+author:
+  name: "Your Name"
+  email: "you@example.com"
+  home: "Taiwan & Northern Ireland"
+
+# If you ever host this as a project site (not username.github.io) set baseurl: "/repo-name"
+# and update links that use relative_url

@@ -1,0 +1,45 @@
+/* Simple, minimalist look with a typewriter-ish mono font */
+:root {
+  --page-max: 860px;
+  --accent: #111; /* adjust if you want turquoise, etc. */
+}
+
+body {
+  font-family: "Space Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  color: #111;
+  background: #fff;
+  line-height: 1.6;
+}
+
+.page-header {
+  background: #fff !important;
+  color: #111 !important;
+  border-bottom: 1px solid #eee;
+}
+
+.main-content {
+  max-width: var(--page-max);
+}
+
+a { color: #111; text-decoration-thickness: .08em; }
+a:hover { text-decoration: underline; }
+
+nav.site-nav a {
+  margin-right: 1rem;
+}
+
+.tag {
+  display: inline-block;
+  padding: .1rem .5rem;
+  border: 1px solid #ddd;
+  border-radius: .5rem;
+  font-size: .85rem;
+  margin: 0 .25rem .25rem 0;
+}
+
+.card {
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin: .75rem 0;
+}
