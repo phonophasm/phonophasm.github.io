@@ -4,10 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# {{ site.title }}
-
-Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
-
 ## Projects
 
 ### VR & Interactive Projects
