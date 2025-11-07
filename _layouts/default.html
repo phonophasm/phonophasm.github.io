@@ -11,6 +11,12 @@
   <body>
     <div class="page">
       <header class="site-header">
+        <nav class="site-nav" aria-label="Primary">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+          <a href="{{ '/projects/' | relative_url }}">Projects</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+        </nav>
         <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         {% if site.description %}
         <p class="site-description">{{ site.description }}</p>
