@@ -4,10 +4,20 @@ title: About
 permalink: /about/
 ---
 
-## About
+# About
 
-Short bio here. Replace this with who you are and what you do.
+<div class="card">
+  <p>Hi — I’m Pete (Phonophasm).</p>
+  <p>I design and perform immersive audio-visual experiences, VR instruments, and interactive installations. My background combines engineering, music, and an MA in creative/interaction design, with recent work focusing on VR, sensory manipulation, and tools that support focus, reflection, and altered states of attention.</p>
+  <p>This site collects prototypes, research-driven projects, and music releases as I continue developing new instruments and immersive environments.</p>
+</div>
 
-- Based in Taiwan & NI
-- VR instruments, ambient/experimental music
-- Projection mapping & creative coding
+<div class="card">
+  <h2 style="margin-top:0;">Contact &amp; Links</h2>
+  <ul>
+    <li>Email: <a href="mailto:heterparrison@gmail.com">heterparrison@gmail.com</a></li>
+    <li>GitHub: <a href="https://github.com/phonophasm">https://github.com/phonophasm</a></li>
+    <li>Bandcamp: <a href="https://phonophasm.bandcamp.com">https://phonophasm.bandcamp.com</a></li>
+    <li>Other socials: coming soon</li>
+  </ul>
+</div>
