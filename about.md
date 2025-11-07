@@ -14,7 +14,7 @@ permalink: /about/
 
 <div class="card">
   <h2 style="margin-top:0;">Contact &amp; Links</h2>
-  <ul>
+  <ul class="contact-links">
     <li>Email: <a href="mailto:heterparrison@gmail.com">heterparrison@gmail.com</a></li>
     <li>GitHub: <a href="https://github.com/phonophasm">https://github.com/phonophasm</a></li>
     <li>Bandcamp: <a href="https://phonophasm.bandcamp.com">https://phonophasm.bandcamp.com</a></li>
