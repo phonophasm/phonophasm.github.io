@@ -118,7 +118,7 @@ VR instruments often sacrifice *musicality* for *novelty*. PhonoSPHERE flips thi
 
 ## Credits & Notes
 
-- Built by **Shiro / Phonophasm** as part of ongoing research into expressive VR/MR instruments.  
+- Built by **Peter Harrison** as part of ongoing research into expressive VR/MR instruments.  
 - Thanks to collaborators and bandmates who stress-tested early builds during rehearsals.
 
 ---
