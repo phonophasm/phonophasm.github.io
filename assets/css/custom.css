@@ -4,6 +4,7 @@
   --background: #f8f8f4;
   --heading-font: 'Work Sans', 'Segoe UI', sans-serif;
   --body-font: 'IBM Plex Mono', ui-monospace, SFMono-Regular, 'Liberation Mono', Menlo, Consolas, monospace;
+  --page-padding: 2rem;
 }
 
 * {
@@ -26,7 +27,7 @@ body {
   width: var(--page-width);
   background: #fff;
   border-radius: 16px;
-  padding: 3rem 2rem;
+  padding: 3rem var(--page-padding);
   text-align: center;
   box-shadow: 0 18px 60px rgba(0, 0, 0, 0.08);
 }
@@ -82,11 +83,13 @@ body {
 .site-nav {
   width: 100%;
   background: #000;
-  border-radius: 999px;
-  padding: 0.75rem 1.25rem;
+  border-radius: 0;
+  margin: 0 calc(var(--page-padding) * -1);
+  padding: 0.75rem var(--page-padding);
   display: flex;
   justify-content: center;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .site-nav a {
@@ -157,11 +160,15 @@ pre {
 }
 
 @media (max-width: 600px) {
+  :root {
+    --page-padding: 1.5rem;
+  }
+
   body {
     padding: 1.5rem 1rem;
   }
 
   .page {
-    padding: 2.5rem 1.5rem;
+    padding: 2.5rem var(--page-padding);
   }
 }
