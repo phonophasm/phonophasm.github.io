@@ -124,14 +124,6 @@ body {
   word-break: break-word;
 }
 
-.site-content .contact-links {
-  font-size: 0.95rem;
-}
-
-.site-content .contact-links a {
-  font-size: 0.9rem;
-}
-
 .site-footer {
   margin-top: 3rem;
   font-size: 0.8rem;
