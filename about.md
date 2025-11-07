@@ -1,23 +1,13 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 ---
 
-# {{ site.title }}
-
-Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
-
-<nav class="site-nav">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/blog/' | relative_url }}">Blog</a>
-  <a href="{{ '/projects/' | relative_url }}">Projects</a>
-  <a href="{{ '/about/' | relative_url }}">About</a>
-</nav>
-
-## About
+# About
 
 <div class="card">
+  <p>Hi — I’m Pete (Phonophasm).</p>
   <p>I design and perform immersive audio-visual experiences, VR instruments, and interactive installations. My background combines engineering, music, and an MA in creative/interaction design, with recent work focusing on VR, sensory manipulation, and tools that support focus, reflection, and altered states of attention.</p>
   <p>This site collects prototypes, research-driven projects, and music releases as I continue developing new instruments and immersive environments.</p>
 </div>
@@ -31,5 +21,3 @@ Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
     <li>Other socials: coming soon</li>
   </ul>
 </div>
-
-<p><a href="{{ '/' | relative_url }}">← Back to Home</a></p>
