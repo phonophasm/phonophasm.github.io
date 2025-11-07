@@ -1,45 +1,131 @@
-/* Simple, minimalist look with a typewriter-ish mono font */
 :root {
-  --page-max: 860px;
-  --accent: #111; /* adjust if you want turquoise, etc. */
+  --page-width: min(720px, calc(100% - 2rem));
+  --text-color: #222;
+  --background: #f8f8f4;
+  --heading-font: 'Work Sans', 'Segoe UI', sans-serif;
+  --body-font: 'IBM Plex Mono', ui-monospace, SFMono-Regular, 'Liberation Mono', Menlo, Consolas, monospace;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
-  font-family: "Space Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
-  color: #111;
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--body-font);
+  background: var(--background);
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem 1rem;
+}
+
+.page {
+  width: var(--page-width);
   background: #fff;
-  line-height: 1.6;
+  border-radius: 16px;
+  padding: 3rem 2rem;
+  text-align: center;
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.08);
 }
 
-.page-header {
-  background: #fff !important;
-  color: #111 !important;
-  border-bottom: 1px solid #eee;
+.site-header {
+  margin-bottom: 2.5rem;
 }
 
-.main-content {
-  max-width: var(--page-max);
+.site-title {
+  font-family: var(--heading-font);
+  font-size: clamp(1.75rem, 3vw + 1rem, 2.5rem);
+  text-decoration: none;
+  color: var(--text-color);
 }
 
-a { color: #111; text-decoration-thickness: .08em; }
-a:hover { text-decoration: underline; }
-
-nav.site-nav a {
-  margin-right: 1rem;
+.site-description {
+  margin: 0.75rem 0 0;
+  font-size: 0.95rem;
+  opacity: 0.75;
 }
 
-.tag {
-  display: inline-block;
-  padding: .1rem .5rem;
-  border: 1px solid #ddd;
-  border-radius: .5rem;
-  font-size: .85rem;
-  margin: 0 .25rem .25rem 0;
+.site-content {
+  display: grid;
+  gap: 1.75rem;
+  font-size: 1rem;
 }
 
-.card {
-  border: 1px solid #eee;
-  border-radius: 12px;
-  padding: 1rem 1.25rem;
-  margin: .75rem 0;
+.site-content h1,
+.site-content h2,
+.site-content h3,
+.site-content h4,
+.site-content h5,
+.site-content h6 {
+  font-family: var(--heading-font);
+  margin: 1.25rem 0 0.5rem;
+}
+
+.site-content p,
+.site-content li {
+  line-height: 1.7;
+}
+
+.site-content ul,
+.site-content ol {
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.site-nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.site-nav a {
+  font-family: var(--heading-font);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  color: var(--text-color);
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid transparent;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  border-color: currentColor;
+}
+
+.site-content a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+}
+
+.site-footer {
+  margin-top: 3rem;
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
+
+.site-footer a {
+  color: inherit;
+}
+
+code,
+pre {
+  font-family: var(--body-font);
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1.5rem 1rem;
+  }
+
+  .page {
+    padding: 2.5rem 1.5rem;
+  }
 }
