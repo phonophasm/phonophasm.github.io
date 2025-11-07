@@ -72,6 +72,8 @@ body {
 .site-content p,
 .site-content li {
   line-height: 1.7;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .site-content ul,
@@ -118,6 +120,8 @@ body {
   color: inherit;
   text-decoration: underline;
   text-decoration-thickness: 0.08em;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .site-footer {
