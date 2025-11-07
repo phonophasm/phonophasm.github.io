@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />
+    {% if site.head_scripts %}{{ site.head_scripts }}{% endif %}
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        {% if site.description %}
+        <p class="site-description">{{ site.description }}</p>
+        {% endif %}
+      </header>
+      <main class="site-content">
+        {{ content }}
+      </main>
+      <footer class="site-footer">
+        <small>&copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }}</small>
+      </footer>
+    </div>
+  </body>
+</html>
