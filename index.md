@@ -8,12 +8,11 @@ title: Home
 Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
 
 <nav class="site-nav">
+  <a href="{{ '/' | relative_url }}">Home</a>
   <a href="{{ '/blog/' | relative_url }}">Blog</a>
   <a href="{{ '/projects/' | relative_url }}">Projects</a>
   <a href="{{ '/about/' | relative_url }}">About</a>
 </nav>
-
----
 
 ## Latest posts
 {% assign recent = site.posts | slice: 0, 3 %}
