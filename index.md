@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# {{ site.title }}
-
 Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
 
 <nav class="site-nav">
