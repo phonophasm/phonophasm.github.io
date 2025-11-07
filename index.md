@@ -35,17 +35,15 @@ Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
 {% endif %}
 
 ## Featured projects
-{% assign featured = site.projects | where: "featured", true | sort: 'weight' %}
-{% if featured and featured.size > 0 %}
-  {% for p in featured %}
-  <div class="card">
-    <h3 style="margin:0;"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-    <p>{{ p.summary }}</p>
-    {% if p.tags %}
-      <p>{% for t in p.tags %}<span class="tag">{{ t }}</span>{% endfor %}</p>
-    {% endif %}
-  </div>
-  {% endfor %}
-{% else %}
-  <p><em>Mark any project with <code>featured: true</code> to show it here.</em></p>
-{% endif %}
+
+### PhonoSPHERE VR Instrument
+A VR instrument for ambient and experimental performance using Quest headsets. Spatial objects trigger and modulate sound through hand tracking, creating an embodied, exploratory interface and a testbed for future bio/neurofeedback interaction.
+
+### NeoSense VR
+A VR research project exploring sensory manipulation and “sense swapping” in virtual environments. Built in Unity, it investigates how remapped sensory cues affect search behaviour, attention, immersion, and comfort.
+
+### Matsu VR
+A narrative VR experience based on Taiwan’s Matsu Islands. Combines documentary-style vistas, spatial sound, and interactive cues to explore presence, memory, and how immersive media can frame geopolitical tension from a human perspective.
+
+### Focal Point
+An audio-visual project about focus, distraction, and perception, using layered ambient textures and minimal visuals. Bridges improvised music with visual experimentation and informs later interactive and VR work.
