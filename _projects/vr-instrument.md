@@ -1,6 +1,6 @@
 ---
 title: "PhonoSPHERE — VR Sampler Instrument"
-layout: project
+layout: default
 date: 2025-11-07
 tags: [VR, Unity, Music, Instrument, Quest 3, Passthrough, Audio]
 # Keep the existing site theme; do not add new CSS/JS here.
