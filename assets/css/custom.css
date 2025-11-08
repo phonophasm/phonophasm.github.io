@@ -72,7 +72,7 @@ body {
 .site-content p,
 .site-content li {
   line-height: 1.7;
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;
   word-break: break-word;
 }
 
@@ -126,7 +126,7 @@ body {
   color: inherit;
   text-decoration: underline;
   text-decoration-thickness: 0.08em;
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;
   word-break: break-word;
 }
 

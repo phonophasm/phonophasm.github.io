@@ -10,8 +10,8 @@ A series of short pieces built from colour, instinct, and escape: the starting p
 
 ## TL;DR
 
-Spectrum (2021) is an early exploration in **freeform songwriting** and **abstract drawing**, created during the slow, uncertain rhythm of Covid.  
-Each track grew from simple colour-focused sketches and unplanned ideas, letting sound and shape evolve together as a way to **let go**, experiment, and discover what Phonophasm could be. :contentReference[oaicite:0]{index=0}
+Spectrum (2021) is an early exploration in **freeform songwriting** and **abstract drawing**, created during the slow, uncertain rhythm of Covid.
+Each track grew from simple colour-focused sketches and unplanned ideas, letting sound and shape evolve together as a way to **let go**, experiment, and discover what Phonophasm could be.
 
 ---
 
@@ -25,7 +25,7 @@ The approach was deliberately simple:
 - Let each drawing suggest a mood, palette, or movement.
 - Turn that feeling into sound in the same sitting—no overthinking.
 
-The result is a set of compact tracks that link directly to colours and impressions rather than concepts or lyrics: a small but important first step into treating **music and visuals as one process** instead of two separate outputs. :contentReference[oaicite:1]{index=1}
+The result is a set of compact tracks that link directly to colours and impressions rather than concepts or lyrics: a small but important first step into treating **music and visuals as one process** instead of two separate outputs.
 
 ---
 
@@ -46,7 +46,7 @@ This workflow—visual prompt → sonic response—became the foundation for lat
 
 ## Sound & Visuals
 
-- Short tracks mapped to specific colours (Purple, Pink, Blue, Cyan, etc.), each treated as a tiny self-contained world. :contentReference[oaicite:2]{index=2}
+- Short tracks mapped to specific colours (Purple, Pink, Blue, Cyan, etc.), each treated as a tiny self-contained world.
 - Simple, textural sound design focused on:
   - gentle movement,
   - layered tones,
