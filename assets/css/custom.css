@@ -59,6 +59,10 @@ body {
   font-size: 1rem;
 }
 
+.site-content > * {
+  min-width: 0;
+}
+
 .site-content h1,
 .site-content h2,
 .site-content h3,
