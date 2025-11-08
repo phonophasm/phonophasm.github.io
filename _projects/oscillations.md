@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Oscillations — Drawing with Soundwaves"
 permalink: /projects/oscillations/
 ---
