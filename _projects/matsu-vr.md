@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Matsu VR — Memories and Stories from the Islands"
 permalink: /projects/matsu-vr/
 ---
