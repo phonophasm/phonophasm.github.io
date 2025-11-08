@@ -10,6 +10,20 @@ tags: [VR, Research, Interaction Design, Perception]
 ## Overview
 **Neo-Sense** is a VR research project exploring **sense swapping**—re-mapping how sight and hearing are delivered to the user—to challenge habitual perception and inspire new forms of interaction. Built in Unity for the Oculus/Meta ecosystem, Neo-Sense exchanges or rearranges visual and auditory channels so users must **search, navigate, and interact** using unusual sensory layouts. The result is a playful, disorienting, and ultimately enlightening perspective on **how we learn space through the senses**.
 
+## Video Demo
+
+<div class="video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/7nRPLwQgcok"
+    title="Neo-Sense VR Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ---
 
 ## What “sense swapping” means (plain-English)
