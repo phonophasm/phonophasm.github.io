@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Focal Point — Music for Concentration & Distraction"
 permalink: /projects/focal-point-album/
 ---
