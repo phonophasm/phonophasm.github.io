@@ -6,7 +6,7 @@ permalink: /projects/focal-point-vr/
 
 # Focal Point — Searching with Senses in 2D & VR
 
-An interactive audiovisual experiment that asks: *how does the medium change the way we search, focus, and feel immersed?* :contentReference[oaicite:0]{index=0}
+An interactive audiovisual experiment that asks: *how does the medium change the way we search, focus, and feel immersed?*
 
 ## TL;DR
 
@@ -28,7 +28,7 @@ At its core:
   - a **Projected (Kinect) Environment**, and
   - a **Virtual Reality Environment**.
 
-This dual setup creates a direct comparison between **shared-space projection** and **fully immersive VR**, using the same conceptual rules. :contentReference[oaicite:1]{index=1}
+This dual setup creates a direct comparison between **shared-space projection** and **fully immersive VR**, using the same conceptual rules.
 
 ---
 
@@ -58,7 +58,7 @@ As they search:
 This version is:
 
 - Easy to understand and more accessible in a public/exhibition space.
-- Less immersive than VR, but strong for shared, observable interaction. :contentReference[oaicite:2]{index=2}
+- Less immersive than VR, but strong for shared, observable interaction.
 
 **Image placeholder:**  
 ![Focal Point projected environment — participant searching](path-to-your-image.jpg)
@@ -77,7 +77,7 @@ The VR version rebuilds the same searching rules inside a fully 3D environment.
 This version:
 
 - Feels **more immersive, embodied, and game-like**.
-- Demands more orientation and adaptation but creates a stronger sense of presence and connection. :contentReference[oaicite:3]{index=3}
+- Demands more orientation and adaptation but creates a stronger sense of presence and connection.
 
 **Image placeholder:**  
 ![Focal Point VR — in-headset view of abstract searching space](path-to-your-image.jpg)
@@ -96,7 +96,7 @@ Approach:
   - searching difficulty,
   - sense of involvement,
   - connection between body and AV feedback,
-  - satisfaction when finding the focal point. :contentReference[oaicite:4]{index=4}
+  - satisfaction when finding the focal point.
 
 Key findings (summarised):
 
