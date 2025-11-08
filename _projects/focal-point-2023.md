@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Focal Point — Music for Concentration & Distraction"
-permalink: /projects/focal-point-album/
+permalink: /projects/focal-point-2023/
 ---
 
 # Focal Point — Music for Concentration & Distraction
