@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Periaudical Expelements — Elements, Frequencies & Early Worlds"
 permalink: /projects/periaudical-expelements/
 ---
