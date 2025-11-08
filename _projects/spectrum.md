@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Spectrum — Colours, Shapes & First Steps"
 permalink: /projects/spectrum/
 ---
