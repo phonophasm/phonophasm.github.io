@@ -10,8 +10,7 @@ A continuation of abstract experiments: using the periodic table, binaural frequ
 
 ## TL;DR
 
-Periaudical Expelements (2022) builds on Spectrum’s abstract process, this time using **chemical elements** and **binaural frequencies** as loose guides for each piece.  
-It runs parallel with early steps into **digital artwork, NFTs, and The AV Club**, where audio-visual artists shared work, built galleries, and explored new ways of presenting their work.
+Periaudical Expelements (2022) builds on Spectrum’s abstract process, this time using **chemical elements** and **binaural frequencies** as loose guides for each piece. It runs parallel with early steps into **digital artwork, NFTs, and The AV Club**, where audio-visual artists shared work, built galleries, and explored new ways of presenting their work.
 
 ---
 
@@ -35,11 +34,11 @@ The album becomes a lab:
 
 Core ingredients:
 
-- **Periodic Table as Framework**  
+- **Periodic Table as Framework**
   Element associations act as prompts: guiding tone, density, or rhythm rather than enforcing strict rules.
-- **Binaural & Textural Experiments**  
+- **Binaural & Textural Experiments**
   Binaural-style layers and detuned voices create gentle perceptual shifts—suggesting inner movement and chemical drift.
-- **Improvised Structures**  
+- **Improvised Structures**
   Many tracks began as intuitive performances, refined just enough to keep their experimental feel.
 
 This phase also marked:
@@ -54,17 +53,17 @@ This phase also marked:
 
 Periaudical Expelements sits inside your early exploration of crypto art and community.
 
-- **Visual Pairings**  
+- **Visual Pairings**
   Abstract, element-inspired pieces built as companions to each track.
-- **The AV Club**  
+- **The AV Club**
   A hosted space where audio-visual NFT artists:
   - shared process,
   - discussed tools and platforms,
   - collaborated on releases, gallery builds, and experiments.
-- **Galleries & Drops**  
+- **Galleries & Drops**
   Involvement in virtual galleries and multi-platform releases helped shape how Phonophasm is framed as both **sound** and **visual practice**.
 
-**Image placeholder:**  
+**Image placeholder:**
 ![Periaudical Expelements artwork / element-inspired visuals](path-to-your-periaudical-art-image.jpg)
 
 **Gallery / NFT Links (placeholders):**

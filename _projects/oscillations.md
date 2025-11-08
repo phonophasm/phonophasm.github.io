@@ -10,8 +10,7 @@ An experimental album built from numbers, shapes, and oscilloscope music: explor
 
 ## TL;DR
 
-Oscillations is a collection of pieces generated from a single TXT-based image using an oscilloscope music tool (Oscirender).  
-By converting shapes and coordinates into audio, then layering and processing the results, the project blurs the line between **visual composition** and **sound design**, and extends your journey into tightly bound audio-visual thinking.
+Oscillations is a collection of pieces generated from a single TXT-based image using an oscilloscope music tool (Oscirender). By converting shapes and coordinates into audio, then layering and processing the results, the project blurs the line between **visual composition** and **sound design**, and extends your journey into tightly bound audio-visual thinking.
 
 ---
 
@@ -38,11 +37,11 @@ The result is an album where:
 
 Key ideas behind Oscillations:
 
-- **One Image, Many Worlds**  
+- **One Image, Many Worlds**
   Starting from a single TXT image, different parameter changes, render passes, and processing chains created multiple distinct sonic outcomes.
-- **Visual-to-Audio Mapping**  
+- **Visual-to-Audio Mapping**
   Lines and shapes become waveforms; curvature and density influence pitch, movement, and texture.
-- **Layering & Restraint**  
+- **Layering & Restraint**
   Rather than building from traditional instruments, you focused on:
   - layering oscilloscope-derived tones,
   - subtle effects,
@@ -79,7 +78,7 @@ This was less about traditional songwriting and more about:
 
 (You can embed GIFs or screenshots here.)
 
-**Image placeholder:**  
+**Image placeholder:**
 ![Oscillations — oscilloscope-inspired artwork](path-to-your-oscillations-art-image.jpg)
 
 ---
