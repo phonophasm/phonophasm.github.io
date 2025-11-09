@@ -12,8 +12,8 @@ tags: [VR, Unity, Music, Instrument, Quest 3, Passthrough, Audio]
 
 ![Hero](assets/vr-instrument/hero.jpg "Live capture — replace with your hero image")
 
-## TL;DR
 PhonoSPHERE is a Unity-built VR instrument designed for live looping and expressive sampling. It lets you **map samples to musical keys and scales**, **layer multiple samples simultaneously**, and **record up to 8 loop tracks**—all inside **Quest 3 passthrough** so you can stay present with your band and audience.
+{: .tldr-highlight }
 
 ---
 

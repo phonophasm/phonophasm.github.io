@@ -8,10 +8,8 @@ permalink: /projects/spectrum/
 
 A series of short pieces built from colour, instinct, and escape: the starting point of Phonophasm as an audio-visual experiment.
 
-## TL;DR
-
-Spectrum (2021) is an early exploration in **freeform songwriting** and **abstract drawing**, created during the slow, uncertain rhythm of Covid.
-Each track grew from simple colour-focused sketches and unplanned ideas, letting sound and shape evolve together as a way to **let go**, experiment, and discover what Phonophasm could be.
+Spectrum (2021) is an early exploration in **freeform songwriting** and **abstract drawing**, created during the slow, uncertain rhythm of Covid. Each track grew from simple colour-focused sketches and unplanned ideas, letting sound and shape evolve together as a way to **let go**, experiment, and discover what Phonophasm could be.
+{: .tldr-highlight }
 
 ---
 
