@@ -5,14 +5,14 @@ date: 2025-11-07
 tags: [intro, portfolio, music, vr]
 ---
 
-![Header — Hello World](assets/posts/welcome-post/hero.jpg "Replace with a banner-style photo or a simple graphic logo")
+![Header — Hello World]({{ '/assets/posts/welcome-post/hero.jpg' | relative_url }} "Replace with a banner-style photo or a simple graphic logo")
 
 ## Who I am
 I’m **Peter Harrison**, also known as **Phonophasm**—a musician, creative coder, and VR tinkerer from **Northern Ireland**, currently based in **Taiwan**. My practice sits at the intersection of music performance, interactive media, and playful experiments in extended reality.
 
 > TL;DR: I build instruments, write music with them, and share the process—warts and wins alike.
 
-![Portrait](assets/posts/welcome-post/portrait.jpg "A simple portrait or studio shot")
+![Portrait]({{ '/assets/posts/welcome-post/portrait.jpg' | relative_url }} "A simple portrait or studio shot")
 
 ## Why I started this site
 I wanted one place to document the projects I’m building, the sounds I’m exploring, and the lessons learned along the way. Expect a mix of short dev logs, process breakdowns, behind-the-scenes clips, and reflections on creative practice.
@@ -21,7 +21,7 @@ I wanted one place to document the projects I’m building, the sounds I’m exp
 - Playable demos and performance notes
 - Resources for fellow artists/devs who want to try similar things
 
-![Workbench / in-progress](assets/posts/welcome-post/workbench.jpg "Candid work-in-progress photo: desk, Quest 3, controllers, notebook")
+![Workbench / in-progress]({{ '/assets/posts/welcome-post/workbench.jpg' | relative_url }} "Candid work-in-progress photo: desk, Quest 3, controllers, notebook")
 
 ## What I’m working on now
 ### PhonoSPHERE — my VR sampler instrument
@@ -33,7 +33,7 @@ I’m developing **PhonoSPHERE**, a **VR sampler + looper** for Meta Quest 3 wit
 
 See the project page for a fuller overview and screenshots.
 
-![PhonoSPHERE UI](assets/posts/welcome-post/vr-instrument-ui.jpg "UI grid / looper meters / passthrough capture")
+![PhonoSPHERE UI]({{ '/assets/posts/welcome-post/vr-instrument-ui.jpg' | relative_url }} "UI grid / looper meters / passthrough capture")
 
 ### Explorination — the album I’m writing *inside* VR
 Working title: **_Explorination_**. I’m composing it **using PhonoSPHERE**—treating the instrument as part of the songwriting process. Expect ambient textures, rhythmic loops, and a few left-turns born from happy accidents in VR.
@@ -42,7 +42,7 @@ Working title: **_Explorination_**. I’m composing it **using PhonoSPHERE**—t
 - Iterative takes shaped by the instrument’s evolving features  
 - Occasional posts sharing stems/snippets
 
-![Album concept art](assets/posts/welcome-post/explorination-concept.jpg "Placeholder: simple abstract or typography-based cover concept")
+![Album concept art]({{ '/assets/posts/welcome-post/explorination-concept.jpg' | relative_url }} "Placeholder: simple abstract or typography-based cover concept")
 
 ## A little about my vibe
 Curious. Systems-minded. I like turning constraints into design. I care about **clarity over flash**, **playability over perfection**, and the feeling when a tool melts away and the idea comes through. I’m also a teacher at heart—if I learn something useful, I’ll share it.
