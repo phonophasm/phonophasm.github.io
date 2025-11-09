@@ -152,18 +152,20 @@ body {
 }
 
 .circle-image {
-  width: 160px;
-  height: 160px;
+  width: min(160px, 55vw);
+  height: min(160px, 55vw);
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center;
   display: block;
   margin: 0 auto 1.25rem;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
 }
 
 .profile-image {
-  width: 180px;
-  height: 180px;
+  width: min(180px, 65vw);
+  height: min(180px, 65vw);
   margin-top: 0.5rem;
 }
 
