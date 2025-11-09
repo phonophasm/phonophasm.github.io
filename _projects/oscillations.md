@@ -8,9 +8,8 @@ permalink: /projects/oscillations/
 
 An experimental album built from numbers, shapes, and oscilloscope music: exploring how **sound looks** and how **images can sing**.
 
-## TL;DR
-
 Oscillations is a collection of pieces generated from a single TXT-based image using an oscilloscope music tool (Oscirender). By converting shapes and coordinates into audio, then layering and processing the results, the project blurs the line between **visual composition** and **sound design**, and extends your journey into tightly bound audio-visual thinking.
+{: .tldr-highlight }
 
 ---
 
