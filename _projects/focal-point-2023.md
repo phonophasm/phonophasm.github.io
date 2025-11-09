@@ -89,7 +89,7 @@ This project keeps that thread open.
   - stay compatible with interactive / installation use.
 
 **Image placeholder:**  
-![Focal Point album artwork](assets/projects/focal-point-art.jpg)
+![Focal Point album artwork](/assets/projects/focal-point-art.jpg)
 
 ---
 
