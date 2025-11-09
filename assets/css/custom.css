@@ -63,6 +63,13 @@ body {
   min-width: 0;
 }
 
+.site-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
 .site-content h1,
 .site-content h2,
 .site-content h3,
