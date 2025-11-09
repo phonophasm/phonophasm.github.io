@@ -8,9 +8,8 @@ permalink: /projects/periaudical-expelements/
 
 A continuation of abstract experiments: using the periodic table, binaural frequencies, and early NFT-era visuals to sketch out a more defined Phonophasm universe.
 
-## TL;DR
-
 Periaudical Expelements (2022) builds on Spectrum’s abstract process, this time using **chemical elements** and **binaural frequencies** as loose guides for each piece. It runs parallel with early steps into **digital artwork, NFTs, and The AV Club**, where audio-visual artists shared work, built galleries, and explored new ways of presenting their work.
+{: .tldr-highlight }
 
 ---
 

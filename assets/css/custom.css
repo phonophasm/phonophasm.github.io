@@ -200,6 +200,26 @@ body {
   border: 0;
 }
 
+.tldr-highlight {
+  background: #000;
+  color: #fff;
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  margin: 1.75rem 0;
+  line-height: 1.7;
+  display: block;
+}
+
+.tldr-highlight a {
+  color: #fff;
+  text-decoration-color: rgba(255, 255, 255, 0.6);
+}
+
+.tldr-highlight strong,
+.tldr-highlight em {
+  color: inherit;
+}
+
 @supports (aspect-ratio: 16 / 9) {
   .video-container {
     aspect-ratio: 16 / 9;
