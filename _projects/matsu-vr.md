@@ -10,8 +10,22 @@ A VR-led exhibition concept that translates lived memories, interviews, and loca
 
 ## TL;DR
 
-Matsu VR is a narrative VR journey and exhibition framework built from real interviews, field recordings, and research on the Matsu Islands.  
+Matsu VR is a narrative VR journey and exhibition framework built from real interviews, field recordings, and research on the Matsu Islands.
 It weaves VR, documentary, print, and feedback tools into one experience designed to share Matsunese identity and gently encourage cultural tourism and deeper understanding.
+
+## Video Demo
+
+<div class="video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/atuICdOWoOE"
+    title="Matsu VR Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 * * *
 
