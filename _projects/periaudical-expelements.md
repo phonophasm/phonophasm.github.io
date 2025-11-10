@@ -11,6 +11,8 @@ A continuation of abstract experiments: using the periodic table, binaural frequ
 Periaudical Expelements (2022) builds on Spectrum’s abstract process, this time using **chemical elements** and **binaural frequencies** as loose guides for each piece. It runs parallel with early steps into **digital artwork, NFTs, and The AV Club**, where audio-visual artists shared work, built galleries, and explored new ways of presenting their work.
 {: .tldr-highlight }
 
+![Periaudical Expelements album artwork](/assets/images/periaudical-expelements.png)
+
 ---
 
 ## Overview
