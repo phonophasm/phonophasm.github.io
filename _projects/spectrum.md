@@ -11,6 +11,7 @@ A series of short pieces built from colour, instinct, and escape: the starting p
 Spectrum (2021) is an early exploration in **freeform songwriting** and **abstract drawing**, created during the slow, uncertain rhythm of Covid. Each track grew from simple colour-focused sketches and unplanned ideas, letting sound and shape evolve together as a way to **let go**, experiment, and discover what Phonophasm could be.
 {: .tldr-highlight }
 
+![Spectrum artwork sketches](/assets/images/spectrum.png)
 ---
 
 ## Overview
