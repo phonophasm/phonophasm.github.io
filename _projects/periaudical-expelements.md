@@ -12,7 +12,7 @@ Periaudical Expelements (2022) builds on Spectrum’s abstract process, this tim
 {: .tldr-highlight }
 
 **Album Artwork**  
-![Periaudical Expelements album artwork](/assets/images/periaudical expelements.png)
+![Periaudical Expelements album artwork](/assets/images/periaudical-expelements.png)
 
 ---
 
