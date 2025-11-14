@@ -8,6 +8,8 @@ permalink: /projects/focal-point-vr/
 
 An interactive audiovisual experiment that asks: *how does the medium change the way we search, focus, and feel immersed?*
 
+![Hero artwork showing the focal point glowing within layered gradients](/assets/images/focal-point.png)
+
 Focal Point is a two-part project comparing a **projected depth-camera environment** and a **VR headset environment**, each built around the same core mechanic: using sound and abstract visuals to search for a hidden focal point. The work explores immersion, body movement, and sensory feedback, supported by a small user study comparing how people experience “searching” across both mediums.
 {: .tldr-highlight }
 
@@ -27,6 +29,18 @@ At its core:
   - a **Virtual Reality Environment**.
 
 This dual setup creates a direct comparison between **shared-space projection** and **fully immersive VR**, using the same conceptual rules.
+
+![Diagram of the staged searching experience showing how audio and visuals guide the user toward the goal](/assets/projects/Focal-Point/searching.png)
+
+### The searching experience
+
+Participants begin each stage surrounded by layers of motion and sound that intentionally obscure the focal point. As they move:
+
+- **Audio cues** shift from diffuse drones to single tones, revealing proximity and direction.
+- **Visual cues** calm from turbulent noise to clean gradients when the focal point is near.
+- **Haptic memory** develops as participants learn how far to reach or rotate to maintain alignment.
+
+Each stage introduces a new obstacle—offset focal points, moving distractions, or vertical depth—so the act of searching becomes an iterative process of tuning senses, rather than a single puzzle to solve.
 
 ---
 
@@ -58,8 +72,9 @@ This version is:
 - Easy to understand and more accessible in a public/exhibition space.
 - Less immersive than VR, but strong for shared, observable interaction.
 
-**Image placeholder:**  
-![Focal Point projected environment — participant searching](path-to-your-image.jpg)
+![Participant using body movement to navigate the Kinect-projected searching space](/assets/projects/Focal-Point/kinect.png)
+
+![Concept artwork from the Kinect version showing layered light guiding the focal point](/assets/projects/Focal-Point/focal-point-art.jpg)
 
 ---
 
@@ -77,8 +92,7 @@ This version:
 - Feels **more immersive, embodied, and game-like**.
 - Demands more orientation and adaptation but creates a stronger sense of presence and connection.
 
-**Image placeholder:**  
-![Focal Point VR — in-headset view of abstract searching space](path-to-your-image.jpg)
+![Concept art from the VR version, showing layered grids and particles around the focal point](/assets/projects/Focal-Point/VR-art.png)
 
 ---
 
@@ -96,6 +110,8 @@ Approach:
   - connection between body and AV feedback,
   - satisfaction when finding the focal point.
 
+Interview transcripts were thematically coded, and keyword clustering highlighted the concepts participants repeated most often: orientation, immersion, and the importance of audio as an anchor when visual distractions increased. These findings fed back into stage design tweaks for both mediums.
+
 Key findings (summarised):
 
 - **Projected version**:
@@ -108,6 +124,8 @@ Key findings (summarised):
   - Participants enjoyed **exploration** more than simply “solving” the task.
   - Confusion + multiple paths (when intentional) can deepen engagement.
 
+![Keyword diagram highlighting interview themes such as “immersion”, “orientation”, and “audio as guide”](/assets/projects/Focal-Point/interviews.png)
+
 ---
 
 ## Tools & Implementation
@@ -119,13 +137,10 @@ Key findings (summarised):
   - Single-user interaction in a shared visual space
 
 - **VR Environment**
-  - Unity
+- Unity
   - Meta Quest 2 with hand tracking
   - C# scripts recreating the focal point logic
   - Spatialised audio and 360° abstract environments
-
-**Image placeholder:**  
-![Side-by-side comparison: Kinect projection vs VR environment](path-to-your-image.jpg)
 
 ---
 
@@ -148,5 +163,3 @@ Future development directions:
 - Integrate biometric/biofeedback data (e.g. heart rate, breathing) as part of the searching logic.
 - Reuse insights and codebase as foundations for new VR instruments and research prototypes.
 
-**Image placeholder:**  
-![Participant exploring Focal Point in VR during testing](path-to-your-image.jpg)
