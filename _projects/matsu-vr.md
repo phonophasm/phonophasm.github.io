@@ -6,9 +6,11 @@ permalink: /projects/matsu-vr/
 
 # Matsu VR — Memories and Stories from the Matsu Islands
 
+![Concept hero illustration for the Matsu VR project, combining island landscapes and interview quotes.](/assets/projects/Matsu/hero.png)
+
 A VR-led exhibition concept that translates lived memories, interviews, and local myths from the Matsu Islands into an immersive, story-driven experience.
 
-Matsu VR is a narrative VR journey and exhibition framework built from real interviews, field recordings, and research on the Matsu Islands. It weaves VR, documentary, print, and feedback tools into one experience designed to share Matsunese identity and gently encourage cultural tourism and deeper understanding.
+Matsu VR is a narrative VR journey and exhibition framework built from real interviews, field recordings, and research on the Matsu Islands. It weaves VR, documentary, print, and feedback tools into one experience designed to share Matsunese identity and gently encourage cultural tourism and deeper understanding. Field expeditions across Nangan and Beigan gathered ambient audio, photographs, and handwritten stories that became the raw material for every virtual scene.
 {: .tldr-highlight }
 
 ## Video Demo
@@ -41,18 +43,22 @@ Key ideas:
 
 ## Experience Design
 
+During fieldwork the team mapped how physical spaces, personal stories, and exhibition touchpoints should flow together. That layout became a living blueprint for the VR build and the on-site installation.
+
+![Annotated map of the VR experience layout, showing how visitors move between interview-driven scenes.](/assets/projects/Matsu/map.png)
+
 The visitor journey is structured around four pillars:
 
-1. **Inspire — VR Experience**  
+1. **Inspire — VR Experience**
    Visitors enter a stylised virtual Matsu built from interviews, environmental audio, and photographic references. Each scene is tied to a real story or memory, guiding people to *feel* the islands before they analyse them.
 
-2. **Relate — Documentary**  
+2. **Relate — Documentary**
    A short art-documentary (and in-progress edits) presents the people behind the stories—fishers, residents, storytellers—anchoring the VR experience in real faces and voices.
 
-3. **Inform — Booklet & Visuals**  
+3. **Inform — Booklet & Visuals**
    Printed materials and exhibition graphics introduce history, geography, and cultural notes, giving visitors context without overloading the VR narrative.
 
-4. **Engage — Feedback Station**  
+4. **Engage — Feedback Station**
    Participants are invited to share reflections, draw connections to their own “islands,” and suggest how Matsu should be represented. This feedback becomes new material for future iterations.
 
 * * *
@@ -64,24 +70,40 @@ The visitor journey is structured around four pillars:
 - **Gentle interaction** – Simple gaze and position-based triggers reveal layers of story rather than fast-paced “game” mechanics, keeping focus on atmosphere and reflection.
 - **Emotional arc** – The flow moves from curiosity → familiarity → reflection, asking what makes Matsu “Matsunese” rather than simply “Taiwanese” or “Chinese”.
 
+The Unity build layers field recordings with interactive memory tokens, mirroring the same sequence of spaces documented during the site visits and interviews.
+
 * * *
 
 ## Process
 
-**Stage 1 – Fieldwork & Research**  
-- Trip to the Matsu Islands  
-- Interviews, surveys, on-site photography and audio recording  
+From the first ferry rides between islands to late-night transcription sessions, the workflow moved in tight feedback loops. Field documentation fed quick VR sketches, which were then tested with residents and iterated into exhibition-ready prototypes.
+
+**Stage 1 – Fieldwork & Research**
+- Trip to the Matsu Islands
+- Interviews, surveys, on-site photography and audio recording
 - First VR/worldbuilding experiments exploring atmosphere and symbolism
+- Community mapping sessions with residents comparing everyday routes to visitor perceptions
 
-**Stage 2 – Prototyping & Exhibition**  
-- Initial VR demo and exhibition tests  
-- Early feedback: increase local specificity, reduce abstract/AI-heavy elements  
+![Photo collage from site visits across the Matsu Islands, including harbours, temples, and coastal cliffs.](/assets/projects/Matsu/photos.png)
+![Interview snapshots with local residents and visitors recounting their memories of Matsu.](/assets/projects/Matsu/interviews.png)
+
+**Stage 2 – Prototyping & Exhibition**
+- Initial VR demo and exhibition tests
+- Early feedback: increase local specificity, reduce abstract/AI-heavy elements
 - Adjustment of visual language and narrative structure
+- Rapid paper and VR prototyping to translate interview quotes into interactive beats
 
-**Stage 3 – Story-Driven Refinement**  
-- Rewriting scenes around direct quotes and memories  
-- Integrating documentary, booklet, and feedback elements into a single exhibition framework  
+![Exhibition view featuring the VR station, documentary screen, and printed materials.](/assets/projects/Matsu/exhibition.png)
+![Visitors trying the VR prototype during the exhibition pilot.](/assets/projects/Matsu/exhibition%202.png)
+
+**Stage 3 – Story-Driven Refinement**
+- Rewriting scenes around direct quotes and memories
+- Integrating documentary, booklet, and feedback elements into a single exhibition framework
 - Technical polish on navigation, interaction cues, and performance
+- Playtesting with Matsunese diaspora to balance interactivity with contemplative pacing
+
+![Gameplay still showing the atmospheric harbour scene inspired by interview audio.](/assets/projects/Matsu/gameshot%201.png)
+![Gameplay still highlighting interactive storytelling moments within the VR world.](/assets/projects/Matsu/gameshot%202.png)
 
 * * *
 
@@ -117,5 +139,7 @@ Matsu VR is less about spectacle and more about **representation**:
 
 Matsu VR was developed as part of the M.A.T.S.U. project at NCKU.
 
-**Team:** Pete Harrison, Coco, Amur  
+![Portrait of the three-person Matsu VR core team standing together at the exhibition venue.](/assets/projects/Matsu/team.png)
+
+**Team:** Pete Harrison, Coco Tong, Amurzaya
 **Role (Pete):** Concept & interaction design, VR development, audio/visual integration, exhibition planning.
