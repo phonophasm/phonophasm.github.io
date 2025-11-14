@@ -5,7 +5,7 @@ date: 2025-11-07
 tags: [VR, Research, Interaction Design, Perception]
 ---
 
-![Hero](assets/projects/Neo-Sense/hero.jpg "Neo-Sense VR — overview")
+![Hero](/assets/projects/Neo-Sense/hero.jpg "Neo-Sense VR — overview")
 
 ## Overview
 **Neo-Sense** is a VR research project exploring **sense swapping**—re-mapping how sight and hearing are delivered to the user—to challenge habitual perception and inspire new forms of interaction. Built in Unity for the Oculus/Meta ecosystem, Neo-Sense exchanges or rearranges visual and auditory channels so users must **search, navigate, and interact** using unusual sensory layouts. The result is a playful, disorienting, and ultimately enlightening perspective on **how we learn space through the senses**.
@@ -29,14 +29,14 @@ tags: [VR, Research, Interaction Design, Perception]
 ## What “sense swapping” means (plain-English)
 Instead of “eyes at the front, ears left/right all around,” Neo-Sense **reconfigures** both streams. Vision can be split to emphasize lateral views, while audio can be narrowed to a forward (or otherwise relocated) focus. Users then complete simple searching tasks, discovering new scanning strategies and adapting to the altered setup.
 
-![System Diagram](assets/projects/Neo-Sense/system%20diagram.png "System diagram: split visual channels + focused audio")
+![System Diagram](/assets/projects/Neo-Sense/system%20diagram.png "System diagram: split visual channels + focused audio")
 
 ---
 
 ## Core interaction: Searching the space
 Participants explore a colorful environment with **eight simple, distinct objects** (numbers, shapes, and clear cues). Tasks favor **low cognitive load** and high **sensory adaptation**: follow a sound to find its source, or use the split visual field to identify the correct target. The emphasis is on **embodied exploration** and **strategy-shifting** rather than puzzle difficulty.
 
-![Interaction](assets/projects/Neo-Sense/interaction.jpg "Searching task in the altered-sense environment")
+![Interaction](/assets/projects/Neo-Sense/interaction.jpg "Searching task in the altered-sense environment")
 
 ---
 
@@ -52,11 +52,11 @@ To surface different adaptation behaviors, Neo-Sense offers three swap layouts:
 - **C — Ears Top, Eyes Front & Back**  
   Audio is “overhead” while vision covers both forward and rear directions. This setup challenges forward-bias habits and reveals how quickly users develop **new scanning rituals**.
 
-![Configuration A](assets/projects/Neo-Sense/head%20A.png "Configuration A — Ears Front, Eyes Left & Right")
+![Configuration A](/assets/projects/Neo-Sense/head%20A.png "Configuration A — Ears Front, Eyes Left & Right")
 
-![Configuration B](assets/projects/Neo-Sense/head%20B.png "Configuration B — Ears Back, Eyes Left & Right")
+![Configuration B](/assets/projects/Neo-Sense/head%20B.png "Configuration B — Ears Back, Eyes Left & Right")
 
-![Configuration C](assets/projects/Neo-Sense/head%20C.png "Configuration C — Ears Top, Eyes Front & Back")
+![Configuration C](/assets/projects/Neo-Sense/head%20C.png "Configuration C — Ears Top, Eyes Front & Back")
 
 ---
 
@@ -71,7 +71,7 @@ Neo-Sense suggests that small, deliberate changes to sensory routing can **incre
 - **Iteration**: Early prototypes tested different splits (visual lateralization vs. audio focus) to find combinations that are surprising but learnable.  
 - **Observation**: Users quickly adopt wider head-sweeps for vision or rely more heavily on “audio cones,” revealing emergent strategies.
 
-![Prototype](assets/projects/Neo-Sense/prototype.png "Early prototype / lab testing")
+![Prototype](/assets/projects/Neo-Sense/prototype.png "Early prototype / lab testing")
 
 ---
 
@@ -97,11 +97,11 @@ Research advised by **Professor Yen-Ting Cho** at **ICID, NCKU (Taiwan)**.
 ---
 
 ## Gallery
-![Hero](assets/projects/Neo-Sense/hero.jpg)
-![System Diagram](assets/projects/Neo-Sense/system%20diagram.png)
-![Configuration A](assets/projects/Neo-Sense/head%20A.png)
-![Configuration B](assets/projects/Neo-Sense/head%20B.png)
-![Configuration C](assets/projects/Neo-Sense/head%20C.png)
-![Interaction](assets/projects/Neo-Sense/interaction.jpg)
-![Prototype](assets/projects/Neo-Sense/prototype.png)
+![Hero](/assets/projects/Neo-Sense/hero.jpg)
+![System Diagram](/assets/projects/Neo-Sense/system%20diagram.png)
+![Configuration A](/assets/projects/Neo-Sense/head%20A.png)
+![Configuration B](/assets/projects/Neo-Sense/head%20B.png)
+![Configuration C](/assets/projects/Neo-Sense/head%20C.png)
+![Interaction](/assets/projects/Neo-Sense/interaction.jpg)
+![Prototype](/assets/projects/Neo-Sense/prototype.png)
 
