@@ -220,6 +220,21 @@ body {
   color: inherit;
 }
 
+.spectrum-art-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.25rem;
+  justify-items: center;
+  margin: 2rem 0;
+}
+
+.spectrum-art-grid img {
+  width: min(220px, 100%);
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
 @supports (aspect-ratio: 16 / 9) {
   .video-container {
     aspect-ratio: 16 / 9;
