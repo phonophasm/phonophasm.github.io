@@ -47,6 +47,16 @@ Key ideas behind Oscillations:
   - subtle effects,
   - dynamic changes over time.
 
+These explorations are documented through process screenshots captured inside Oscirender and Logic Pro. They show the oscilloscope interface translating geometric drawings into XY audio, the recording setup with oscilloscope plugins, and early experiments with basic shape generators that informed how you sculpted the first tones.
+
+![Oscilloscope music program screenshot](/assets/projects/Oscillations/process/0.png)
+![Oscilloscope plugin in Logic Pro](/assets/projects/Oscillations/process/1.png)
+![Logic Pro session with oscilloscope view](/assets/projects/Oscillations/process/2.png)
+![Oscirender arrangement detail](/assets/projects/Oscillations/process/3.png)
+![First tests with basic shape generator](/assets/projects/Oscillations/process/Basic%20Shapes.png)
+
+**Video placeholder:** _Embed first audio-visual piece here._
+
 This was less about traditional songwriting and more about:
 
 - **listening to geometry**,
@@ -80,6 +90,47 @@ This was less about traditional songwriting and more about:
 
 **Image placeholder:**
 ![Oscillations — oscilloscope-inspired artwork](path-to-your-oscillations-art-image.jpg)
+
+---
+
+## Audio-Visual Pieces
+
+The finished Oscillations tracks grew from the same numeric datasets that shaped the visuals. You mapped lists of coordinates and numerical patterns into stereo XY signals, then layered the resulting oscillations with complementary effects derived from those numbers—filters keyed to specific values, modulation depths pulled from data sequences, and dynamic automation shaped by the geometry. Over the top, you improvised vocals in direct response to the evolving waveforms, treating the generated sound as a conversation partner.
+
+These stills capture a slice of those finished outputs:
+
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem;">
+  <figure>
+    <img src="/assets/projects/Oscillations/0.png" alt="Oscillations visual 0" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/1.png" alt="Oscillations visual 1" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/2.png" alt="Oscillations visual 2" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/3.png" alt="Oscillations visual 3" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/4.png" alt="Oscillations visual 4" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/5.png" alt="Oscillations visual 5" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/6.png" alt="Oscillations visual 6" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/7.png" alt="Oscillations visual 7" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/8.png" alt="Oscillations visual 8" />
+  </figure>
+  <figure>
+    <img src="/assets/projects/Oscillations/9.png" alt="Oscillations visual 9" />
+  </figure>
+</div>
 
 ---
 
