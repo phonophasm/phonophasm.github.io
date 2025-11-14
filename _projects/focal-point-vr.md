@@ -74,8 +74,6 @@ This version is:
 
 ![Participant using body movement to navigate the Kinect-projected searching space](/assets/projects/Focal-Point/kinect.png)
 
-![Concept artwork from the Kinect version showing layered light guiding the focal point](/assets/projects/Focal-Point/focal-point-art.jpg)
-
 ---
 
 ## Version 2 — Virtual Reality Environment (Quest 2 + Unity)
