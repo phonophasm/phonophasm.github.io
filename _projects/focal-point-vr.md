@@ -8,6 +8,8 @@ permalink: /projects/focal-point-vr/
 
 An interactive audiovisual experiment that asks: *how does the medium change the way we search, focus, and feel immersed?*
 
+![Hero artwork showing the focal point glowing within layered gradients](/assets/images/focal-point.png)
+
 Focal Point is a two-part project comparing a **projected depth-camera environment** and a **VR headset environment**, each built around the same core mechanic: using sound and abstract visuals to search for a hidden focal point. The work explores immersion, body movement, and sensory feedback, supported by a small user study comparing how people experience “searching” across both mediums.
 {: .tldr-highlight }
 
