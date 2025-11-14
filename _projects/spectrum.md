@@ -52,8 +52,18 @@ This workflow—visual prompt → sonic response—became the foundation for lat
   - a feeling of drifting through a palette rather than a fixed song form.
 - Visuals were kept minimal and handmade, reinforcing the idea that **playful, imperfect creation** is valid and valuable.
 
-**Image placeholder:**  
-![Spectrum artwork sketches](path-to-your-spectrum-art-image.jpg)
+**Artwork sketches for each Spectrum track:**
+<div class="spectrum-art-grid">
+  <img src="{{ 'assets/projects/spectrum/01.jpg' | relative_url }}" alt="Spectrum track 1 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/02.jpg' | relative_url }}" alt="Spectrum track 2 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/03.jpg' | relative_url }}" alt="Spectrum track 3 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/04.jpg' | relative_url }}" alt="Spectrum track 4 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/05.jpg' | relative_url }}" alt="Spectrum track 5 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/06.jpg' | relative_url }}" alt="Spectrum track 6 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/07.jpg' | relative_url }}" alt="Spectrum track 7 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/08.jpg' | relative_url }}" alt="Spectrum track 8 artwork sketch" />
+  <img src="{{ 'assets/projects/spectrum/09.jpg' | relative_url }}" alt="Spectrum track 9 artwork sketch" />
+</div>
 
 ---
 
