@@ -99,7 +99,7 @@ The finished Oscillations tracks grew from the same numeric datasets that shaped
 
 These stills capture a slice of those finished outputs:
 
-<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem;">
+<div class="oscillations-gallery">
   <figure>
     <img src="/assets/projects/Oscillations/0.png" alt="Oscillations visual 0" />
   </figure>
