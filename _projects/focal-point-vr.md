@@ -72,6 +72,8 @@ This version is:
 - Easy to understand and more accessible in a public/exhibition space.
 - Less immersive than VR, but strong for shared, observable interaction.
 
+![Album artwork used in the depth-camera installation, showing layered colours around the focal point](/assets/projects/Focal-Point/focal-point-art.jpg)
+
 ![Participant using body movement to navigate the Kinect-projected searching space](/assets/projects/Focal-Point/kinect.png)
 
 ---
@@ -90,6 +92,8 @@ This version:
 - Feels **more immersive, embodied, and game-like**.
 - Demands more orientation and adaptation but creates a stronger sense of presence and connection.
 
+![Participant wearing a headset inside the VR version, reaching toward the focal point](/assets/projects/Focal-Point/Focal-Point-VR.png)
+
 ![Concept art from the VR version, showing layered grids and particles around the focal point](/assets/projects/Focal-Point/VR-art.png)
 
 ---
@@ -107,6 +111,8 @@ Approach:
   - sense of involvement,
   - connection between body and AV feedback,
   - satisfaction when finding the focal point.
+
+![Participants standing in front of the projection wall during the comparative study](/assets/projects/Focal-Point/participants.png)
 
 Interview transcripts were thematically coded, and keyword clustering highlighted the concepts participants repeated most often: orientation, immersion, and the importance of audio as an anchor when visual distractions increased. These findings fed back into stage design tweaks for both mediums.
 
