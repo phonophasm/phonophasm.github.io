@@ -142,4 +142,5 @@ Matsu VR was developed as part of the M.A.T.S.U. project at NCKU.
 ![Portrait of the three-person Matsu VR core team standing together at the exhibition venue.](/assets/projects/Matsu/team.png)
 
 **Team:** Pete Harrison, Coco Tong, Amurzaya.
+
 **Role (Pete):** Concept & interaction design, VR development, audio/visual integration, exhibition planning.
