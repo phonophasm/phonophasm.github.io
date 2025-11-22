@@ -69,6 +69,8 @@ These explorations are documented through process screenshots captured inside Os
 ![Oscirender arrangement detail](/assets/projects/Oscillations/process/3.png)
 ![First tests with basic shape generator](/assets/projects/Oscillations/process/Basic%20Shapes.png)
 
+[Watch the full audiovisual album on YouTube →](https://youtu.be/gmTzAn1HFpE)
+
 This was less about traditional songwriting and more about:
 
 - **listening to geometry**,
