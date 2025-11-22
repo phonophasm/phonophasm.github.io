@@ -11,6 +11,20 @@ An experimental album built from numbers, shapes, and oscilloscope music: explor
 Oscillations is a collection of pieces generated from a single TXT-based image using an oscilloscope music tool (Oscirender). By converting shapes and coordinates into audio, then layering and processing the results, the project blurs the line between **visual composition** and **sound design**, and extends your journey into tightly bound audio-visual thinking.
 {: .tldr-highlight }
 
+## Watch the Full Audiovisual Album
+
+<div class="video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/gmTzAn1HFpE"
+    title="Oscillations — full audiovisual album"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ![Oscillations album artwork](/assets/images/oscillations.png)
 ---
 

@@ -11,6 +11,20 @@ A series of short pieces built from colour, instinct, and escape: the starting p
 Spectrum (2021) is an early exploration in **freeform songwriting** and **abstract drawing**, created during the slow, uncertain rhythm of Covid. Each track grew from simple colour-focused sketches and unplanned ideas, letting sound and shape evolve together as a way to **let go**, experiment, and discover what Phonophasm could be.
 {: .tldr-highlight }
 
+## Watch the Full Audiovisual Album
+
+<div class="video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/6JepQePjhRw"
+    title="Spectrum — full audiovisual album"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ![Spectrum artwork sketches](/assets/images/spectrum.png)
 ---
 
@@ -89,9 +103,3 @@ Spectrum is the **origin point**:
 You can hear Spectrum on Bandcamp:
 
 [Listen to Spectrum on Bandcamp →](https://phonophasm.bandcamp.com/album/spectrum)
-
-## Watch
-
-Catch Spectrum on YouTube:
-
-[Watch Spectrum on YouTube →](https://youtu.be/6JepQePjhRw)
