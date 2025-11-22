@@ -115,3 +115,5 @@ It is both a reflective standalone release and a blueprint for what interactive 
 ## Listen
 
 [Listen to Focal Point on Bandcamp →](https://phonophasm.bandcamp.com/album/focal-point)
+
+[Watch the full audiovisual album on YouTube →](https://youtu.be/2mnYUmi6X-M)
