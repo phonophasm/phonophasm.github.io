@@ -11,6 +11,20 @@ Music written as the backbone of the **Focal Point** project: a set of pieces th
 The Focal Point album was created as **sound support** for the interactive Focal Point environments. Each track is based on real-world distractions and mental clutter, using titles and textures to hint at what pulls us away from focus. It was originally intended as an **interactive album**, where listeners could control a lead voice like in the installation—an idea paused, but not forgotten.
 {: .tldr-highlight }
 
+## Watch the Full Audiovisual Album
+
+<div class="video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/2mnYUmi6X-M"
+    title="Focal Point — full audiovisual album"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ![Focal Point album artwork](/assets/images/focal-point-2023.png)
 ---
 

@@ -11,6 +11,20 @@ A continuation of abstract experiments: using the periodic table, binaural frequ
 Periaudical Expelements (2022) builds on Spectrum’s abstract process, this time using **chemical elements** and **binaural frequencies** as loose guides for each piece. It runs parallel with early steps into **digital artwork, NFTs, and The AV Club**, where audio-visual artists shared work, built galleries, and explored new ways of presenting their work.
 {: .tldr-highlight }
 
+## Watch the Full Audiovisual Album
+
+<div class="video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/leWLJ1XVpFg"
+    title="Periaudical Expelements — full audiovisual album"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ![Periaudical Expelements album artwork](/assets/images/periaudical-expelements.png)
 
 ---
@@ -64,7 +78,7 @@ Periaudical Expelements sits inside your early exploration of crypto art and com
 - **Galleries & Drops**
   Involvement in virtual galleries and multi-platform releases helped shape how Phonophasm is framed as both **sound** and **visual practice**.
 
-![Periaudical Expelements artwork / element-inspired visuals](/assets/images/periaudical-expelements.png)
+![Periaudical Expelements full artwork collection](/assets/projects/PE/Periaudical%20Expelements.jpg)
 
 ---
 
@@ -115,5 +129,3 @@ It stands as both a self-contained album and a **bridge** to your later AV, VR, 
 ## Listen
 
 [Listen to Periaudical Expelements on Bandcamp →](https://phonophasm.bandcamp.com/album/periaudical-expelements)
-
-[Watch the full audiovisual album on YouTube →](https://youtu.be/leWLJ1XVpFg)
