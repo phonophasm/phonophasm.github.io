@@ -64,7 +64,7 @@ Periaudical Expelements sits inside your early exploration of crypto art and com
 - **Galleries & Drops**
   Involvement in virtual galleries and multi-platform releases helped shape how Phonophasm is framed as both **sound** and **visual practice**.
 
-![Periaudical Expelements artwork / element-inspired visuals](/assets/images/periaudical-expelements.png)
+![Periaudical Expelements full artwork collection](/assets/projects/PE/Periaudical%20Expelements.jpg)
 
 ---
 
