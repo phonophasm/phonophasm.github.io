@@ -89,3 +89,9 @@ Spectrum is the **origin point**:
 You can hear Spectrum on Bandcamp:
 
 [Listen to Spectrum on Bandcamp →](https://phonophasm.bandcamp.com/album/spectrum)
+
+## Watch
+
+Catch Spectrum on YouTube:
+
+[Watch Spectrum on YouTube →](https://youtu.be/6JepQePjhRw)
