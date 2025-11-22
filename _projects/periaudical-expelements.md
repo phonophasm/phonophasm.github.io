@@ -64,15 +64,7 @@ Periaudical Expelements sits inside your early exploration of crypto art and com
 - **Galleries & Drops**
   Involvement in virtual galleries and multi-platform releases helped shape how Phonophasm is framed as both **sound** and **visual practice**.
 
-**Image placeholder:**
-![Periaudical Expelements artwork / element-inspired visuals](path-to-your-periaudical-art-image.jpg)
-
-**Gallery / NFT Links (placeholders):**
-
-- [View AV Club Gallery](https://example.com)
-- [View NFT Collection](https://example.com)
-
-(Add real links when you’re ready.)
+![Periaudical Expelements artwork / element-inspired visuals](/assets/images/periaudical-expelements.png)
 
 ---
 
@@ -123,3 +115,5 @@ It stands as both a self-contained album and a **bridge** to your later AV, VR, 
 ## Listen
 
 [Listen to Periaudical Expelements on Bandcamp →](https://phonophasm.bandcamp.com/album/periaudical-expelements)
+
+[Watch the full audiovisual album on YouTube →](https://youtu.be/leWLJ1XVpFg)
