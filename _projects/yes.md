@@ -12,7 +12,7 @@ weight: 14
 An album built from **spontaneous composition** and **abstract visuals**, recorded in single takes where possible and mixed with **ambisonic movement** for a headphone-first experience. YES captures a period of breaking routine—letting music, lyrics, and animations emerge together without overplanning.
 {: .tldr-highlight }
 
-![YES album artwork placeholder](/assets/images/yes-cover-placeholder.jpg)
+![YES album cover](/assets/projects/YES/this%20time%20I%20said%20YES.jpg)
 ---
 
 ## Overview
@@ -48,14 +48,32 @@ This approach kept YES open-ended: meanings continue to evolve, and the album re
 
 Animations for YES were treated like musical sketches—quick, responsive, and tied to feeling rather than storyboards. Each track will have its own artwork and motion piece.
 
-**Artwork placeholders (one per track):**
+**Album artwork (one per track):**
 <div class="yes-art-grid">
-  <img src="{{ '/assets/projects/yes/track-01-placeholder.jpg' | relative_url }}" alt="YES track 1 artwork placeholder" />
-  <img src="{{ '/assets/projects/yes/track-02-placeholder.jpg' | relative_url }}" alt="YES track 2 artwork placeholder" />
-  <img src="{{ '/assets/projects/yes/track-03-placeholder.jpg' | relative_url }}" alt="YES track 3 artwork placeholder" />
-  <img src="{{ '/assets/projects/yes/track-04-placeholder.jpg' | relative_url }}" alt="YES track 4 artwork placeholder" />
-  <img src="{{ '/assets/projects/yes/track-05-placeholder.jpg' | relative_url }}" alt="YES track 5 artwork placeholder" />
-  <img src="{{ '/assets/projects/yes/track-06-placeholder.jpg' | relative_url }}" alt="YES track 6 artwork placeholder" />
+  <figure>
+    <img src="{{ '/assets/projects/YES/this%20time%20I%20said%20YES.jpg' | relative_url }}" alt="This Time I Said YES album cover" />
+    <figcaption>"This Time I Said YES"</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/projects/YES/don%27t%20forget.jpg' | relative_url }}" alt="Don’t Forget track artwork" />
+    <figcaption>"don't forget"</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/projects/YES/feel%20it.jpg' | relative_url }}" alt="feel it track artwork" />
+    <figcaption>"feel it"</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/projects/YES/hold%20out%20your%20hands.jpg' | relative_url }}" alt="hold out your hands track artwork" />
+    <figcaption>"hold out your hands"</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/projects/YES/large%20houses.jpg' | relative_url }}" alt="large houses track artwork" />
+    <figcaption>"large houses"</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/projects/YES/play%20do.jpg' | relative_url }}" alt="play do track artwork" />
+    <figcaption>"play do"</figcaption>
+  </figure>
 </div>
 
 **Full-album video placeholder:**
