@@ -5,7 +5,7 @@ date: 2025-11-27
 tags: [phonosphere, vr, music, devlog]
 ---
 
-![Header — PhonoSPHERE Demo]({{ '/assets/posts/phonosphere-demo/header-placeholder.jpg' | relative_url }} "Replace with a banner-style header image")
+![Welcome view of the PhonoSPHERE demo, showing the four curved grids and title card]({{ '/assets/projects/PhonoSPHERE/welcome.png' | relative_url }})
 
 After months of building, testing, breaking, rebuilding, and refining, I’m finally sharing the first public demo version of **PhonoSPHERE**, my VR musical instrument designed for hand-tracked performance on the Meta Quest.
 
@@ -19,7 +19,7 @@ PhonoSPHERE is a VR musical instrument created around the idea that your hands a
 
 Instead of relying on controllers, buttons, or menus, the demo uses hand tracking and a small gesture-language we’ve developed during this project. The goal is to create a performance experience that feels expressive, immersive, and natural — something between a sampler, a synthesizer, and a reactive VR sculpture.
 
-![Sphere grids]({{ '/assets/posts/phonosphere-demo/sphere-grids-placeholder.jpg' | relative_url }} "Replace with a GIF or screenshot of the sphere grids")
+![Touch interaction on the curved grid layout, showing hand-tracked contact with note spheres]({{ '/assets/projects/PhonoSPHERE/touch 1.png' | relative_url }})
 
 ## What’s included in the demo
 
@@ -30,6 +30,8 @@ You will see four curved grids of note spheres placed in front of you. Each grid
 
 ### 2) Note triggering
 You play notes by touching spheres with your finger and thumb. Each sphere is mapped to a musical scale (currently in the key of D), and each note includes a simple label for clarity.
+
+![Finger contact on the grid with labels, illustrating how note triggering works]({{ '/assets/projects/PhonoSPHERE/touch 2.png' | relative_url }})
 
 ### 3) Gesture controls
 We’ve already implemented the first version of the PhonoSPHERE gestural controls:
@@ -48,7 +50,11 @@ Currently, labels show each note’s letter name. We also discussed adding a col
 ### 5) UI tools
 The demo includes the early version of the menu system where you can toggle labels, turn instruction text on/off, and switch the key or scale.
 
-![UI mock]({{ '/assets/posts/phonosphere-demo/ui-placeholder.jpg' | relative_url }} "Replace with a UI screenshot")
+![In-demo radial menu showing toggles for labels and instructions]({{ '/assets/projects/PhonoSPHERE/menu.png' | relative_url }})
+
+![Alternate menu layout showcasing additional menu positions]({{ '/assets/projects/PhonoSPHERE/menu 1.png' | relative_url }})
+
+![Key scale legend displayed inside the menu for quick reference]({{ '/assets/projects/PhonoSPHERE/keyscale.png' | relative_url }})
 
 ## How the demo works under the hood
 
@@ -106,12 +112,4 @@ I will update this post with:
 
 Thank you for checking out my website and being interested in PhonoSPHERE. I’m excited to hear your thoughts and see how you interact with this first version — and I’m looking forward to improving it and bringing the full instrument to life.
 
-![Footer — PhonoSPHERE Demo]({{ '/assets/posts/phonosphere-demo/footer-placeholder.jpg' | relative_url }} "Replace with a footer image or logo")
-
----
-
-### Image notes (replace these placeholders)
-- `assets/posts/phonosphere-demo/header-placeholder.jpg` — banner-style header image
-- `assets/posts/phonosphere-demo/sphere-grids-placeholder.jpg` — GIF or screenshot of sphere grids
-- `assets/posts/phonosphere-demo/ui-placeholder.jpg` — UI screenshot
-- `assets/posts/phonosphere-demo/footer-placeholder.jpg` — footer image or logo
+![Closing view of the PhonoSPHERE interface with active grids]({{ '/assets/projects/PhonoSPHERE/touch 1.png' | relative_url }})
