@@ -5,7 +5,7 @@ date: 2025-11-07
 tags: [intro, portfolio, music, vr]
 ---
 
-![Header — Hello World] ({{ '/assets/posts/welcome-post/portrait.jpg' | relative_url }})
+![Header — Hello World]({{ '/assets/posts/welcome-post/portrait.jpg' | relative_url }})
 
 ## Who I am
 I’m **Peter Harrison**, also known as **Phonophasm**—a musician, creative coder, and VR tinkerer from **Northern Ireland**, currently based in **Taiwan**. My practice sits at the intersection of music performance, interactive media, and playful experiments in extended reality.
