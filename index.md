@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="{{ '/assets/images/pete-portrait.png' | relative_url }}" alt="Portrait of Pete" class="circle-image profile-image" />
+<img src="{{ '/assets/images/pete-portrait.PNG' | relative_url }}" alt="Portrait of Pete" class="circle-image profile-image" />
 
 Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
 
