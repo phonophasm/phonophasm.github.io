@@ -23,8 +23,8 @@ I wanted one place to document the projects I’m building, the sounds I’m exp
 ![Workbench / in-progress]({{ '/assets/posts/welcome-post/workbench.jpg' | relative_url }} "Candid work-in-progress photo: desk, Quest 3, controllers, notebook")
 
 ## What I’m working on now
-### PhonoSPHERE — my VR sampler instrument
-I’m developing **PhonoSPHERE**, a **VR sampler + looper** for Meta Quest 3 with:
+### phonosphere — my VR sampler instrument
+I’m developing **phonosphere**, a **VR sampler + looper** for Meta Quest 3 with:
 - **Key/scale mapping** so performances stay musical  
 - **Multi-sample layering** for rich textures  
 - **Passthrough MR** so I can see the band/audience while playing  
@@ -32,10 +32,10 @@ I’m developing **PhonoSPHERE**, a **VR sampler + looper** for Meta Quest 3 wit
 
 See the project page for a fuller overview and screenshots.
 
-![PhonoSPHERE UI]({{ '/assets/posts/welcome-post/vr-instrument-ui.jpg' | relative_url }} "UI grid / looper meters / passthrough capture")
+![phonosphere UI]({{ '/assets/posts/welcome-post/vr-instrument-ui.jpg' | relative_url }} "UI grid / looper meters / passthrough capture")
 
 ### Explorination — the album I’m writing *inside* VR
-Working title: **_Explorination_**. I’m composing it **using PhonoSPHERE**—treating the instrument as part of the songwriting process. Expect ambient textures, rhythmic loops, and a few left-turns born from happy accidents in VR.
+Working title: **_Explorination_**. I’m composing it **using phonosphere**—treating the instrument as part of the songwriting process. Expect ambient textures, rhythmic loops, and a few left-turns born from happy accidents in VR.
 
 - Sketches recorded live in MR  
 - Iterative takes shaped by the instrument’s evolving features  
@@ -47,7 +47,7 @@ Working title: **_Explorination_**. I’m composing it **using PhonoSPHERE**—t
 Curious. Systems-minded. I like turning constraints into design. I care about **clarity over flash**, **playability over perfection**, and the feeling when a tool melts away and the idea comes through. I’m also a teacher at heart—if I learn something useful, I’ll share it.
 
 ## What to expect next
-- Short notes on PhonoSPHERE’s development (stability, UI decisions, looping workflow)
+- Short notes on phonosphere’s development (stability, UI decisions, looping workflow)
 - Early demos from _Explorination_
 - Guides and templates for VR music performance setups
 
@@ -59,6 +59,5 @@ If you’d like updates, keep an eye on this blog or reach out via the contact l
 - `assets/posts/welcome-post/hero.jpg` — wide banner or logo
 - `assets/posts/welcome-post/portrait.jpg` — simple headshot
 - `assets/posts/welcome-post/workbench.jpg` — candid workspace photo
-- `assets/posts/welcome-post/vr-instrument-ui.jpg` — PhonoSPHERE UI / MR still
+- `assets/posts/welcome-post/vr-instrument-ui.jpg` — phonosphere UI / MR still
 - `assets/posts/welcome-post/explorination-concept.jpg` — album concept art
-

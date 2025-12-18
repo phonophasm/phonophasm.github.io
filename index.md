@@ -29,8 +29,8 @@ Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
 ## Featured projects
 
 <div class="card">
-  <img src="{{ '/assets/images/phonosphere.png' | relative_url }}" alt="Screenshot of the PhonoSPHERE VR instrument interface" class="circle-image project-image" />
-  <h3 class="project-title">PhonoSPHERE VR Instrument</h3>
+  <img src="{{ '/assets/images/phonosphere.png' | relative_url }}" alt="Screenshot of the phonosphere VR instrument interface" class="circle-image project-image" />
+  <h3 class="project-title">phonosphere VR instrument</h3>
   <p>A VR instrument for ambient and experimental performance using Quest headsets. Spatial objects trigger and modulate sound through hand tracking, creating an embodied, exploratory interface and a testbed for future bio/neurofeedback interaction.</p>
 </div>
 

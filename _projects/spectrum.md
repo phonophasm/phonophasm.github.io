@@ -90,7 +90,7 @@ Spectrum is the **origin point**:
   - Focal Point,
   - Neo-Sense VR,
   - Matsu VR,
-  - PhonoSPHERE and future instruments.
+  - phonosphere and future instruments.
 - Serves as a reminder that much of your practice is about:
   - spontaneity,
   - emotion through abstraction,

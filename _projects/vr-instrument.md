@@ -1,18 +1,18 @@
 ---
-title: "PhonoSPHERE — VR Sampler Instrument"
+title: "phonosphere — VR sampler instrument"
 layout: default
 date: 2025-11-07
 tags: [VR, Unity, Music, Instrument, Quest 3, Passthrough, Audio]
 # Keep the existing site theme; do not add new CSS/JS here.
 ---
 
-# PhonoSPHERE — VR Sampler Instrument
+# phonosphere — VR sampler instrument
 
 *A performance-ready VR sampler for Meta Quest 3 with key/scale mapping, multi-sample layering, 8-track looping, and full-color passthrough.*
 
-![Hero](assets/vr-instrument/hero.jpg "Live capture — replace with your hero image")
+![phonosphere hero]({{ '/assets/projects/phonosphere/title list image.png' | relative_url }} "Hero capture")
 
-PhonoSPHERE is a Unity-built VR instrument designed for live looping and expressive sampling. It lets you **map samples to musical keys and scales**, **layer multiple samples simultaneously**, and **record up to 8 loop tracks**—all inside **Quest 3 passthrough** so you can stay present with your band and audience.
+phonosphere is a Unity-built VR instrument designed for live looping and expressive sampling. It lets you **map samples to musical keys and scales**, **layer multiple samples simultaneously**, and **record up to 8 loop tracks**—all inside **Quest 3 passthrough** so you can stay present with your band and audience.
 {: .tldr-highlight }
 
 ---
@@ -34,7 +34,7 @@ PhonoSPHERE is a Unity-built VR instrument designed for live looping and express
 - **Built for Stage**  
   Fast UI, clear feedback, minimal friction. Designed to withstand long sets.
 
-![UI Grid](assets/vr-instrument/ui-grid.jpg "Key/Scale grid")
+![UI grid]({{ '/assets/projects/phonosphere/banner park.png' | relative_url }} "Key/scale grid view")
 
 ---
 
@@ -48,8 +48,9 @@ PhonoSPHERE is a Unity-built VR instrument designed for live looping and express
 - **(Optional) Audio-Reactive Visuals**: Lightweight reactive elements for feedback without distracting from playability.  
 - **Unity + OpenXR**: Modern XR pipeline; portable to future devices.
 
-![Passthrough](assets/vr-instrument/passthrough.jpg "Passthrough view")
-![Looper](assets/vr-instrument/looper.jpg "8-track looper UI")
+![Passthrough]({{ '/assets/projects/phonosphere/screenshot 2.png' | relative_url }} "Passthrough view")
+![In-app menu]({{ '/assets/projects/phonosphere/menu 2.png' | relative_url }} "Menu view")
+![Alternate menu layout]({{ '/assets/projects/phonosphere/menu 3.png' | relative_url }} "Alternate menu view")
 
 ---
 
@@ -59,7 +60,7 @@ PhonoSPHERE is a Unity-built VR instrument designed for live looping and express
 - **Scenario B — Solo Set:** Build ambient beds with layered pads, add percussive hits in a different bank, then improvise with scale-locked leads.  
 - **Scenario C — Studio Sketching:** Rapidly try different keys/scales to find a vibe, commit takes into the looper, export stems later (pipeline WIP).
 
-![Performance](assets/vr-instrument/performance.jpg "Live performance")
+![Performance]({{ '/assets/projects/phonosphere/banner.png' | relative_url }} "Live performance")
 
 ---
 
@@ -84,9 +85,9 @@ PhonoSPHERE is a Unity-built VR instrument designed for live looping and express
 4) **Field Testing**  
    - Rehearsals and first gig trials informed control placement, loop meters, and emergency “clear/mute” ergonomics.
 
-![Sketch](assets/vr-instrument/process-sketch.jpg "Early sketch")
-![Prototype](assets/vr-instrument/process-prototype.jpg "First prototype")
-![Iteration](assets/vr-instrument/process-iteration.jpg "Recent iteration")
+![Sketch]({{ '/assets/projects/phonosphere/screenshot 1.png' | relative_url }} "Early capture")
+![Prototype]({{ '/assets/projects/phonosphere/touch 1.png' | relative_url }} "Interface contact")
+![Iteration]({{ '/assets/projects/phonosphere/touch 2.png' | relative_url }} "Iteration detail")
 
 ---
 
@@ -102,7 +103,7 @@ PhonoSPHERE is a Unity-built VR instrument designed for live looping and express
 
 ## Why it matters
 
-VR instruments often sacrifice *musicality* for *novelty*. PhonoSPHERE flips this: **musical guardrails** (key/scale mapping), **looping as a compositional tool**, and **MR presence** to keep performers connected with their environment. It’s built for **real shows**, not just demos.
+VR instruments often sacrifice *musicality* for *novelty*. phonosphere flips this: **musical guardrails** (key/scale mapping), **looping as a compositional tool**, and **MR presence** to keep performers connected with their environment. It’s built for **real shows**, not just demos.
 
 ---
 
@@ -125,14 +126,15 @@ VR instruments often sacrifice *musicality* for *novelty*. PhonoSPHERE flips thi
 
 ## Gallery
 
-![Hero](assets/vr-instrument/hero.jpg)
-![UI Grid](assets/vr-instrument/ui-grid.jpg)
-![Looper](assets/vr-instrument/looper.jpg)
-![Passthrough](assets/vr-instrument/passthrough.jpg)
-![Performance](assets/vr-instrument/performance.jpg)
-![Sketch](assets/vr-instrument/process-sketch.jpg)
-![Prototype](assets/vr-instrument/process-prototype.jpg)
-![Iteration](assets/vr-instrument/process-iteration.jpg)
+![Hero]({{ '/assets/projects/phonosphere/title list image.png' | relative_url }})
+![UI grid]({{ '/assets/projects/phonosphere/banner park.png' | relative_url }})
+![Passthrough]({{ '/assets/projects/phonosphere/screenshot 2.png' | relative_url }})
+![In-app menu]({{ '/assets/projects/phonosphere/menu 2.png' | relative_url }})
+![Alternate menu]({{ '/assets/projects/phonosphere/menu 3.png' | relative_url }})
+![Performance]({{ '/assets/projects/phonosphere/banner.png' | relative_url }})
+![Sketch]({{ '/assets/projects/phonosphere/screenshot 1.png' | relative_url }})
+![Prototype]({{ '/assets/projects/phonosphere/touch 1.png' | relative_url }})
+![Iteration]({{ '/assets/projects/phonosphere/touch 2.png' | relative_url }})
 
 ---
 

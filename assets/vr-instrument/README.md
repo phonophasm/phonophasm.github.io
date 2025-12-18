@@ -1,14 +1,13 @@
-# VR Instrument Image Assets
+# phonosphere image assets
 
-Place the following images in this directory once they are ready. Use the exact filenames below so the project page links resolve correctly. JPEG files should be optimized (preferably below 500 KB each).
+The phonosphere project page now pulls its visuals from `assets/projects/phonosphere/`. Keep the following filenames intact so the links resolve on the site (spaces are intentional in a few names):
 
-- `hero.jpg` — Wide banner/hero capture (≈1600×900 or larger)
-- `ui-grid.jpg` — Key/scale grid or pad layout
-- `passthrough.jpg` — Quest 3 passthrough view
-- `looper.jpg` — 8-track looper UI
-- `performance.jpg` — Live performance capture
-- `process-sketch.jpg` — Early concept sketch or whiteboard
-- `process-prototype.jpg` — First working prototype screenshot
-- `process-iteration.jpg` — Recent build or iteration snapshot
+- `title list image.png` — hero/title image
+- `banner park.png` — UI grid view
+- `screenshot 2.png` — passthrough view
+- `menu 2.png`, `menu 3.png` — menu views
+- `banner.png` — performance view
+- `screenshot 1.png`, `touch 1.png`, `touch 2.png` — process/interaction captures
+- `welcome.png`, `menu.png`, `menu 1.png`, `keyscale.png`, `title.png` — additional gallery/menu assets
 
-After adding the images, no additional configuration is required; the project page references these filenames directly.
+All images live directly in that folder; no extra configuration is needed beyond keeping the filenames consistent.
