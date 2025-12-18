@@ -9,9 +9,9 @@ permalink: /projects/
 ### VR & Interactive Projects
 
 <div class="card">
-  <h3 class="project-title"><a href="{{ '/projects/vr-instrument/' | relative_url }}">PhonoSPHERE VR Instrument</a></h3>
-  <img src="{{ '/assets/images/phonosphere.png' | relative_url }}" alt="Screenshot of the PhonoSPHERE VR instrument interface" class="circle-image project-image" />
-  <p>PhonoSPHERE is an in-development VR musical instrument for Quest headsets. Notes and sounds are embedded in spatial objects that respond to hand movement and proximity, enabling embodied, exploratory performance. It also serves as a prototype environment for future bio/neurofeedback-driven control experiments.</p>
+  <h3 class="project-title"><a href="{{ '/projects/vr-instrument/' | relative_url }}">phonosphere VR instrument</a></h3>
+  <img src="{{ '/assets/images/phonosphere.png' | relative_url }}" alt="Screenshot of the phonosphere VR instrument interface" class="circle-image project-image" />
+  <p>phonosphere is an in-development VR musical instrument for Quest headsets. Notes and sounds are embedded in spatial objects that respond to hand movement and proximity, enabling embodied, exploratory performance. It also serves as a prototype environment for future bio/neurofeedback-driven control experiments.</p>
 </div>
 
 <div class="card">

@@ -174,7 +174,7 @@ Oscillations marks an important step in your evolution:
   - images can be instruments,
   - rules and data can be creative collaborators.
 - Lays conceptual groundwork for:
-  - VR instruments like **PhonoSPHERE**,
+  - VR instruments like **phonosphere**,
   - interactive visual music systems,
   - and later research into how people perceive and navigate audio-visual spaces.
 
