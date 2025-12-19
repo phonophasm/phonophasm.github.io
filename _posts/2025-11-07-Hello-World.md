@@ -39,8 +39,6 @@ Working title: **_Explorination_**. I’m composing it **using PHONOSPHERE**—t
 - Iterative takes shaped by the instrument’s evolving features  
 - Occasional posts sharing stems/snippets
 
-![Album concept art]({{ '/assets/posts/welcome-post/explorination-concept.jpg' | relative_url }} "Placeholder: simple abstract or typography-based cover concept")
-
 ## A little about my vibe
 Curious. Systems-minded. I like turning constraints into design. I care about **clarity over flash**, **playability over perfection**, and the feeling when a tool melts away and the idea comes through. I’m also a teacher at heart—if I learn something useful, I’ll share it.
 
