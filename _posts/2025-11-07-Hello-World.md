@@ -20,8 +20,6 @@ I wanted one place to document the projects I’m building, the sounds I’m exp
 - Playable demos and performance notes
 - Resources for fellow artists/devs who want to try similar things
 
-![Workbench / in-progress]({{ '/assets/posts/welcome-post/workbench.jpg' | relative_url }} "Candid work-in-progress photo: desk, Quest 3, controllers, notebook")
-
 ## What I’m working on now
 ### PHONOSPHERE — my VR sampler instrument
 I’m developing **PHONOSPHERE**, a **VR sampler + looper** for Meta Quest 3 with:
@@ -32,7 +30,7 @@ I’m developing **PHONOSPHERE**, a **VR sampler + looper** for Meta Quest 3 wit
 
 See the project page for a fuller overview and screenshots.
 
-![PHONOSPHERE UI]({{ '/assets/posts/welcome-post/vr-instrument-ui.jpg' | relative_url }} "UI grid / looper meters / passthrough capture")
+![PHONOSPHERE title list UI]({{ '/assets/projects/phonosphere/title list image.png' | relative_url }} "PHONOSPHERE title list interface")
 
 ### Explorination — the album I’m writing *inside* VR
 Working title: **_Explorination_**. I’m composing it **using PHONOSPHERE**—treating the instrument as part of the songwriting process. Expect ambient textures, rhythmic loops, and a few left-turns born from happy accidents in VR.
@@ -54,10 +52,3 @@ Curious. Systems-minded. I like turning constraints into design. I care about **
 If you’d like updates, keep an eye on this blog or reach out via the contact links on the site.
 
 ---
-
-### Image notes (replace these placeholders)
-- `assets/posts/welcome-post/hero.jpg` — wide banner or logo
-- `assets/posts/welcome-post/portrait.jpg` — simple headshot
-- `assets/posts/welcome-post/workbench.jpg` — candid workspace photo
-- `assets/posts/welcome-post/vr-instrument-ui.jpg` — PHONOSPHERE UI / MR still
-- `assets/posts/welcome-post/explorination-concept.jpg` — album concept art
