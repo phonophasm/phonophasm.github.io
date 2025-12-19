@@ -1,18 +1,18 @@
 ---
-title: "phonosphere — VR sampler instrument"
+title: "PHONOSPHERE — VR sampler instrument"
 layout: default
 date: 2025-11-07
 tags: [VR, Unity, Music, Instrument, Quest 3, Passthrough, Audio]
 # Keep the existing site theme; do not add new CSS/JS here.
 ---
 
-# phonosphere — VR sampler instrument
+# PHONOSPHERE — VR sampler instrument
 
 *A performance-ready VR sampler for Meta Quest 3 with key/scale mapping, multi-sample layering, 8-track looping, and full-color passthrough.*
 
-![phonosphere hero]({{ '/assets/projects/phonosphere/title list image.png' | relative_url }} "Hero capture")
+![PHONOSPHERE hero]({{ '/assets/projects/phonosphere/title list image.png' | relative_url }} "Hero capture")
 
-phonosphere is a Unity-built VR instrument designed for live looping and expressive sampling. It lets you **map samples to musical keys and scales**, **layer multiple samples simultaneously**, and **record up to 8 loop tracks**—all inside **Quest 3 passthrough** so you can stay present with your band and audience.
+PHONOSPHERE is a Unity-built VR instrument designed for live looping and expressive sampling. It lets you **map samples to musical keys and scales**, **layer multiple samples simultaneously**, and **record up to 8 loop tracks**—all inside **Quest 3 passthrough** so you can stay present with your band and audience.
 {: .tldr-highlight }
 
 ---
@@ -103,7 +103,7 @@ phonosphere is a Unity-built VR instrument designed for live looping and express
 
 ## Why it matters
 
-VR instruments often sacrifice *musicality* for *novelty*. phonosphere flips this: **musical guardrails** (key/scale mapping), **looping as a compositional tool**, and **MR presence** to keep performers connected with their environment. It’s built for **real shows**, not just demos.
+VR instruments often sacrifice *musicality* for *novelty*. PHONOSPHERE flips this: **musical guardrails** (key/scale mapping), **looping as a compositional tool**, and **MR presence** to keep performers connected with their environment. It’s built for **real shows**, not just demos.
 
 ---
 

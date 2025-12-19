@@ -3,7 +3,7 @@
 The home page references the following image files:
 
 - `pete-portrait.png` – portrait photo for the hero section
-- `phonosphere.png` – phonosphere featured project image
+- `phonosphere.png` – PHONOSPHERE featured project image
 - `neo-sense.png` – Neo Sense featured project image
 - `matsu.png` – Matsu featured project image
 - `focal-point.png` – Focal Point featured project image

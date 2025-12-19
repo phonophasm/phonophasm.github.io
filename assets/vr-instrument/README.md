@@ -1,6 +1,6 @@
-# phonosphere image assets
+# PHONOSPHERE image assets
 
-The phonosphere project page now pulls its visuals from `assets/projects/phonosphere/`. Keep the following filenames intact so the links resolve on the site (spaces are intentional in a few names):
+The PHONOSPHERE project page now pulls its visuals from `assets/projects/phonosphere/`. Keep the following filenames intact so the links resolve on the site (spaces are intentional in a few names):
 
 - `title list image.png` — hero/title image
 - `banner park.png` — UI grid view
