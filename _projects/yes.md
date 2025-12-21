@@ -9,46 +9,57 @@ weight: 14
 
 # YES (2024)
 
-An album built from **spontaneous composition** and **abstract visuals**, recorded in single takes where possible and mixed with **ambisonic movement** for a headphone-first experience. YES captures a period of breaking routine—letting music, lyrics, and animations emerge together without overplanning.
-{: .tldr-highlight }
+*A music and visual project built from spontaneous composition, recorded in single sittings and shaped through ambisonic movement.*
 
 ![YES album cover](/assets/projects/YES/this%20time%20I%20said%20YES.jpg)
+
+YES is an album created through **improvisation and intuition**, with each track recorded in one uninterrupted session wherever possible. Music, lyrics, and visuals were allowed to emerge together with minimal planning, capturing a period of letting go of routine and trusting process.
+{: .tldr-highlight }
+
 ---
 
 ## Overview
 
-YES grew out of a desire to step away from tightly structured projects and explore **freeform sketching** in both sound and image. Each track was captured in one sitting, embracing the feeling of receiving ideas from somewhere intuitive or even divine, then gently shaping them during mixing.
+YES grew from a desire to step away from tightly structured work and explore **freeform sketching** in both sound and image. Each piece began as a single sitting — a moment of attention where ideas were followed rather than directed.
 
-The result is a collection of **abstract layerings and soundscapes** that invite interpretation. Lyrics evolved from improvisation, gaining meaning through the act of sounding out ideas and feelings rather than writing them in advance.
-
----
-
-## Process & Approach
-
-- **One-sitting recordings** – capturing performances in a single flow to preserve spontaneity.
-- **Ambisonic mixing** – experimenting with spatial movement so each element orbits and shifts around the listener; best experienced on headphones.
-- **Improvised lyrics** – words surfaced during takes, later refined by listening back and teasing out the emotions underneath.
-- **Parallel visuals** – animations grew alongside the music with minimal planning, mirroring the freeform process of the songs themselves.
-
-This approach kept YES open-ended: meanings continue to evolve, and the album remains intentionally **abstract** so listeners can project their own interpretations.
+Lyrics emerged through improvisation, gaining meaning through repetition and listening back rather than pre-written narratives. The result is a collection of abstract soundscapes that invite interpretation rather than explanation.
 
 ---
 
-## Sound & Space
+## Process & approach
+
+- **Single-sitting recordings**  
+  Performances were captured in one continuous flow to preserve immediacy and intuition.
+
+- **Ambisonic mixing**  
+  During mixing, sounds were treated as moving elements, orbiting and shifting around the listener. The album is designed primarily for **headphone listening**.
+
+- **Improvised lyrics**  
+  Words surfaced during takes and were later shaped through reflection, focusing on emotional tone rather than literal meaning.
+
+- **Parallel visuals**  
+  Visuals were developed alongside the music using the same loose, responsive process — sketches rather than storyboards.
+
+This approach keeps YES intentionally open-ended. Meanings remain fluid, allowing listeners to project their own experiences onto the work.
+
+---
+
+## Sound & space
 
 - **Layered soundscapes** built from guitar, synths, vocals, and textural elements recorded live.
-- **Spatial play** in the mix, with ambisonic panning and movement experiments that create a sense of travel through the songs.
-- **Headphone focus**, inviting listeners to feel immersed in the shifting field of each piece.
+- **Spatial movement** through ambisonic panning and subtle motion within each track.
+- **Headphone-first design**, encouraging immersion within the shifting sonic field.
 
-> Further exploration of spontaneous composition. Abstract layerings and soundscapes recorded in one sitting for each song. During this phase I got interested in ambisonic audio and during mixing I played around with each track's movements so please listen on headphones for the full experience.
+> During this project I became particularly interested in ambisonic audio. While mixing, I experimented with how sounds could move and breathe around the listener — best experienced with headphones.
 
 ---
 
-## Visuals & Artwork
+## Visuals & artwork
 
-Animations for YES were treated like musical sketches—quick, responsive, and tied to feeling rather than storyboards. Each track will have its own artwork and motion piece.
+Visuals for YES were treated as musical sketches — quick, responsive, and guided by feeling rather than narrative. Each track is paired with its own artwork and motion piece.
 
 **Album artwork (one per track):**
+
 <div class="yes-art-grid">
   <figure>
     <img src="{{ '/assets/projects/YES/this%20time%20I%20said%20YES.jpg' | relative_url }}" alt="This Time I Said YES album cover" />
@@ -56,7 +67,7 @@ Animations for YES were treated like musical sketches—quick, responsive, and t
   </figure>
   <figure>
     <img src="{{ '/assets/projects/YES/don%27t%20forget.jpg' | relative_url }}" alt="Don’t Forget track artwork" />
-    <figcaption>"don't forget"</figcaption>
+    <figcaption>"don’t forget"</figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/projects/YES/feel%20it.jpg' | relative_url }}" alt="feel it track artwork" />
@@ -76,15 +87,16 @@ Animations for YES were treated like musical sketches—quick, responsive, and t
   </figure>
 </div>
 
-**Full-album video placeholder:**
-
-- _Embed a video here that pairs the entire album with its evolving visuals._
+**Full-album video (in progress):**  
+A single video combining the album with evolving visuals will be added here.
 
 ---
 
-## Why YES Matters
+## Why YES matters
 
-YES marks a deliberate break from routine—a reminder that **loosening structure** can reveal new ideas. By trusting improvisation, the project taps into subconscious feelings and leaves room for the audience to discover their own meanings within the abstract combinations of sound and image.
+YES marks a deliberate shift away from control and optimisation, toward **trusting intuition and attention**. By loosening structure, the project opens space for unexpected connections — between sound and image, intention and accident, creator and listener.
+
+Rather than delivering fixed meanings, YES invites listening as a reflective act.
 
 ---
 
