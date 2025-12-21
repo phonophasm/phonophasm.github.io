@@ -6,12 +6,16 @@ permalink: /projects/oscillations/
 
 # Oscillations — Drawing with Soundwaves
 
-An experimental album built from numbers, shapes, and oscilloscope music: exploring how **sound looks** and how **images can sing**.
+*A music and audiovisual project exploring how images can be listened to, and how sound can be shaped by visual form.*
 
-Oscillations is a collection of pieces generated from a single TXT-based image using an oscilloscope music tool (Oscirender). By converting shapes and coordinates into audio, then layering and processing the results, the project blurs the line between **visual composition** and **sound design**, and extends your journey into tightly bound audio-visual thinking.
+![Oscillations album artwork](/assets/images/oscillations.png)
+
+Oscillations is an experimental album created by translating drawings, numbers, and geometric relationships directly into sound. Using oscilloscope-based techniques, visual shapes become waveforms, allowing composition to begin with **how something looks**, rather than how it traditionally sounds.
 {: .tldr-highlight }
 
-## Watch the Full Audiovisual Album
+---
+
+## Watch the full audiovisual album
 
 <div class="video-container">
   <iframe
@@ -25,43 +29,34 @@ Oscillations is a collection of pieces generated from a single TXT-based image u
   </iframe>
 </div>
 
-![Oscillations album artwork](/assets/images/oscillations.png)
 ---
 
 ## Overview
 
-Oscillations asks a simple question:
+Oscillations began with a simple question:
 
-> If a drawing becomes a soundwave, can we compose music by designing how it looks?
+> If a drawing becomes a soundwave, can music be composed by designing how it looks?
 
-Using Oscirender and a single source file, you:
+Using a single TXT-based image as a starting point, the project explores how coordinates, lines, and shapes can be converted into audio signals. These signals are then layered, processed, and arranged into pieces where **each sound has a graphical origin**, and **each visual trace corresponds to an audible structure**.
 
-- turned coordinates and line data into raw waveforms,
-- sculpted these into evolving tones, drones, and movements,
-- and treated the oscilloscope visual not as a by-product, but as part of the composition.
-
-The result is an album where:
-
-- each track is visually traceable,
-- and each sound has a structural, graphical origin.
+Rather than treating the oscilloscope image as a by-product of sound, Oscillations treats it as part of the composition itself.
 
 ---
 
-## Process & Concept
+## Process & concept
 
-Key ideas behind Oscillations:
+Key ideas behind Oscillations include:
 
-- **One Image, Many Worlds**
-  Starting from a single TXT image, different parameter changes, render passes, and processing chains created multiple distinct sonic outcomes.
-- **Visual-to-Audio Mapping**
-  Lines and shapes become waveforms; curvature and density influence pitch, movement, and texture.
-- **Layering & Restraint**
-  Rather than building from traditional instruments, you focused on:
-  - layering oscilloscope-derived tones,
-  - subtle effects,
-  - dynamic changes over time.
+- **One image, many outcomes**  
+  Starting from a single source file, different parameter choices, render passes, and processing chains produced distinct sonic results.
 
-These explorations are documented through process screenshots captured inside Oscirender and Logic Pro. They show the oscilloscope interface translating geometric drawings into XY audio, the recording setup with oscilloscope plugins, and early experiments with basic shape generators that informed how you sculpted the first tones.
+- **Visual-to-audio mapping**  
+  Lines and shapes become waveforms; curvature, density, and symmetry influence pitch, motion, and texture.
+
+- **Layering with restraint**  
+  Instead of traditional instruments, the album is built primarily from oscilloscope-derived tones, shaped through subtle processing and slow evolution.
+
+This approach shifts composition away from melody and harmony toward **structure, motion, and form**.
 
 ![Oscilloscope music program screenshot](/assets/projects/Oscillations/process/0.png)
 ![Oscilloscope plugin in Logic Pro](/assets/projects/Oscillations/process/1.png)
@@ -69,116 +64,79 @@ These explorations are documented through process screenshots captured inside Os
 ![Oscirender arrangement detail](/assets/projects/Oscillations/process/3.png)
 ![First tests with basic shape generator](/assets/projects/Oscillations/process/Basic%20Shapes.png)
 
-[Watch the full audiovisual album on YouTube →](https://youtu.be/gmTzAn1HFpE)
-
-This was less about traditional songwriting and more about:
-
-- **listening to geometry**,
-- exploring the poetic space between diagrams, screens, and drone music,
-- and deepening your fascination with generative / system-based creation.
-
 ---
 
-## Tools & Workflow
+## Sound, visuals, and interaction
 
-**Core Engine**
+The finished tracks grow directly from the same numerical datasets that shape the visuals.
 
-- **Oscirender** – converting TXT-based shapes into oscilloscope music / XY audio.
-- **Logic Pro** – arranging, layering, processing, and finalising each piece.
+Coordinates and geometric patterns are mapped into stereo XY signals, layered into evolving oscillations, and gently processed using filters, modulation, and spatial effects. In several pieces, improvised vocals respond directly to the generated tones, treating the system itself as a creative partner.
 
-**Sound Sources**
+The resulting audio-visual works sit somewhere between:
 
-- Oscilloscope-generated signals as the primary voice.
-- Additional processing via:
-  - EQ, saturation, modulation, spatial effects,
-  - gentle layering to keep the focus on waveform character.
+- diagrams and drone music,  
+- data visualisation and performance,  
+- system design and intuition.
 
-**Visuals**
-
-- Oscilloscope views and render outputs as:
-  - cover art elements,
-  - looping visuals,
-  - documentation of how each track “looks” when decoded.
-
-(You can embed GIFs or screenshots here.)
-
-**Image placeholder:**
-![Oscillations — oscilloscope-inspired artwork](path-to-your-oscillations-art-image.jpg)
-
----
-
-## Audio-Visual Pieces
-
-The finished Oscillations tracks grew from the same numeric datasets that shaped the visuals. You mapped lists of coordinates and numerical patterns into stereo XY signals, then layered the resulting oscillations with complementary effects derived from those numbers—filters keyed to specific values, modulation depths pulled from data sequences, and dynamic automation shaped by the geometry. Over the top, you improvised vocals in direct response to the evolving waveforms, treating the generated sound as a conversation partner.
-
-These stills capture a slice of those finished outputs:
+These stills capture moments from the completed pieces:
 
 <div class="oscillations-gallery">
-  <figure>
-    <img src="/assets/projects/Oscillations/0.png" alt="Oscillations visual 0" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/1.png" alt="Oscillations visual 1" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/2.png" alt="Oscillations visual 2" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/3.png" alt="Oscillations visual 3" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/4.png" alt="Oscillations visual 4" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/5.png" alt="Oscillations visual 5" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/6.png" alt="Oscillations visual 6" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/7.png" alt="Oscillations visual 7" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/8.png" alt="Oscillations visual 8" />
-  </figure>
-  <figure>
-    <img src="/assets/projects/Oscillations/9.png" alt="Oscillations visual 9" />
-  </figure>
+  <figure><img src="/assets/projects/Oscillations/0.png" alt="Oscillations visual 0" /></figure>
+  <figure><img src="/assets/projects/Oscillations/1.png" alt="Oscillations visual 1" /></figure>
+  <figure><img src="/assets/projects/Oscillations/2.png" alt="Oscillations visual 2" /></figure>
+  <figure><img src="/assets/projects/Oscillations/3.png" alt="Oscillations visual 3" /></figure>
+  <figure><img src="/assets/projects/Oscillations/4.png" alt="Oscillations visual 4" /></figure>
+  <figure><img src="/assets/projects/Oscillations/5.png" alt="Oscillations visual 5" /></figure>
+  <figure><img src="/assets/projects/Oscillations/6.png" alt="Oscillations visual 6" /></figure>
+  <figure><img src="/assets/projects/Oscillations/7.png" alt="Oscillations visual 7" /></figure>
+  <figure><img src="/assets/projects/Oscillations/8.png" alt="Oscillations visual 8" /></figure>
+  <figure><img src="/assets/projects/Oscillations/9.png" alt="Oscillations visual 9" /></figure>
 </div>
 
 ---
 
-## NFTs & Digital Art
+## Tools & workflow
 
-Oscillations was also released as a series of NFTs on objkt.com, extending the concept:
+- **Oscirender**  
+  Used to convert TXT-based drawings into oscilloscope music and XY audio signals.
 
-- **Audio-visual tokens** where:
-  - the sound and its visual origin are inherently linked,
-  - collectors receive a snapshot of this experiment in translating shapes → sound.
-- **On-chain documentation** of this phase in your practice.
+- **Logic Pro**  
+  Used for arranging, layering, processing, and finalising each piece.
 
-**NFT / Gallery Links (placeholders):**
+- **Sound sources**  
+  Oscilloscope-generated signals form the primary material, supported by gentle EQ, saturation, modulation, and spatial processing.
 
-- [View Oscillations collection on objkt.com](https://example.com)
-
-(Add real links when ready.)
+- **Visual output**  
+  Oscilloscope renders function as cover art, looping visuals, and documentation of how each piece is structured.
 
 ---
 
-## Why Oscillations Matters
+## NFTs & digital artefacts
 
-Oscillations marks an important step in your evolution:
+Oscillations was also released as a small series of NFTs, extending the idea of tightly bound sound–image relationships.
 
-- Moves further away from traditional band structures into **system-driven, code-adjacent composition**.
-- Strengthens the idea that:
-  - images can be instruments,
-  - rules and data can be creative collaborators.
-- Lays conceptual groundwork for:
-  - VR instruments like **PHONOSPHERE**,
-  - interactive visual music systems,
-  - and later research into how people perceive and navigate audio-visual spaces.
+- Each token pairs audio with its visual origin.
+- The works function as snapshots of this exploratory phase rather than polished products.
+- The release acts as on-chain documentation of a system-driven creative experiment.
 
-It is both a standalone experimental release and a clear link in the chain toward your current immersive and research-led work.
+*(Links can be added here when relevant.)*
+
+---
+
+## Why Oscillations matters
+
+Oscillations marks a shift away from traditional songwriting toward **system-based, rule-driven composition**.
+
+Within your wider practice, it:
+
+- Strengthens the idea that images can function as instruments.
+- Treats data, rules, and constraints as creative collaborators.
+- Lays conceptual groundwork for later work in:
+  - interactive visual music,
+  - VR instruments such as **PHONOSPHERE**,
+  - and research into how people perceive and navigate audio-visual space.
+
+It stands as both a standalone experimental release and a clear link in the chain toward your immersive and research-led projects.
 
 ---
 
