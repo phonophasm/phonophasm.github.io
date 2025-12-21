@@ -5,7 +5,16 @@ title: Home
 
 <img src="{{ '/assets/images/pete-portrait.PNG' | relative_url }}" alt="Portrait of Pete" class="circle-image profile-image" />
 
-Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
+Hi — I’m Pete (Phonophasm). I make music, VR instruments, and new-media experiments.
+
+<p>
+My work explores immersive sound and virtual environments as tools for attention, memory, and shared experience — often through playful, embodied interaction.
+</p>
+
+<p>
+I’m especially interested in practices that prioritise care, listening, and participation over spectacle or optimisation.
+Outside of studio work, I’m drawn to cycling, swimming, yoga, meditation, and the small habits that support focus and wellbeing.
+</p>
 
 ## Latest posts
 {% assign recent = site.posts | slice: 0, 3 %}
@@ -29,25 +38,53 @@ Hi — I’m Pete. I make music, VR instruments, and new‑media experiments.
 ## Featured projects
 
 <div class="card">
-  <img src="{{ '/assets/images/phonosphere.png' | relative_url }}" alt="Screenshot of the PHONOSPHERE VR instrument interface" class="circle-image project-image" />
-  <h3 class="project-title">PHONOSPHERE VR instrument</h3>
-  <p>A VR instrument for ambient and experimental performance using Quest headsets. Spatial objects trigger and modulate sound through hand tracking, creating an embodied, exploratory interface and a testbed for future bio/neurofeedback interaction.</p>
+  <a href="https://phonophasm.github.io/projects/vr-instrument/" style="text-decoration:none;">
+    <img src="{{ '/assets/images/phonosphere.png' | relative_url }}" alt="Screenshot of the PHONOSPHERE VR instrument interface" class="circle-image project-image" />
+  </a>
+  <h3 class="project-title">
+    <a href="https://phonophasm.github.io/projects/vr-instrument/">PHONOSPHERE VR instrument</a>
+  </h3>
+  <p>
+    A VR instrument for ambient and experimental performance on Quest headsets. Spatial “sound objects” are triggered and shaped through hand tracking, encouraging exploratory play and embodied musical gesture.
+  </p>
+  <p><a href="https://phonophasm.github.io/projects/vr-instrument/">View project →</a></p>
 </div>
 
 <div class="card">
-  <img src="{{ '/assets/images/neo-sense.png' | relative_url }}" alt="NeoSense VR concept art" class="circle-image project-image" />
-  <h3 class="project-title">NeoSense VR</h3>
-  <p>A VR research project exploring sensory manipulation and “sense swapping” in virtual environments. Built in Unity, it investigates how remapped sensory cues affect search behaviour, attention, immersion, and comfort.</p>
+  <a href="https://phonophasm.github.io/projects/neo-sense-vr/" style="text-decoration:none;">
+    <img src="{{ '/assets/images/neo-sense.png' | relative_url }}" alt="Neo-Sense VR concept art" class="circle-image project-image" />
+  </a>
+  <h3 class="project-title">
+    <a href="https://phonophasm.github.io/projects/neo-sense-vr/">Neo-Sense VR</a>
+  </h3>
+  <p>
+    A research project exploring sensory manipulation and “sense swapping” in VR. Built in Unity, it investigates how remapped cues influence attention, search behaviour, immersion, and comfort.
+  </p>
+  <p><a href="https://phonophasm.github.io/projects/neo-sense-vr/">View project →</a></p>
 </div>
 
 <div class="card">
-  <img src="{{ '/assets/images/matsu.png' | relative_url }}" alt="VR installation view from the Matsu project" class="circle-image project-image" />
-  <h3 class="project-title">Matsu VR</h3>
-  <p>A narrative VR experience based on Taiwan’s Matsu Islands. Combines documentary-style vistas, spatial sound, and interactive cues to explore presence, memory, and how immersive media can frame geopolitical tension from a human perspective.</p>
+  <a href="https://phonophasm.github.io/projects/matsu-vr/" style="text-decoration:none;">
+    <img src="{{ '/assets/images/matsu.png' | relative_url }}" alt="VR installation view from the Matsu project" class="circle-image project-image" />
+  </a>
+  <h3 class="project-title">
+    <a href="https://phonophasm.github.io/projects/matsu-vr/">Matsu VR</a>
+  </h3>
+  <p>
+    A narrative VR experience inspired by Taiwan’s Matsu Islands. Documentary-style vistas, spatial sound, and gentle interaction explore presence, memory, and how immersive media can frame geopolitical tension through lived experience.
+  </p>
+  <p><a href="https://phonophasm.github.io/projects/matsu-vr/">View project →</a></p>
 </div>
 
 <div class="card">
-  <img src="{{ '/assets/images/focal-point.png' | relative_url }}" alt="Focal Point project artwork featuring concentric circles" class="circle-image project-image" />
-  <h3 class="project-title">Focal Point</h3>
-  <p>An audio-visual project about focus, distraction, and perception, using layered ambient textures and minimal visuals. Bridges improvised music with visual experimentation and informs later interactive and VR work.</p>
+  <a href="https://phonophasm.github.io/projects/focal-point-vr/" style="text-decoration:none;">
+    <img src="{{ '/assets/images/focal-point.png' | relative_url }}" alt="Focal Point project artwork featuring concentric circles" class="circle-image project-image" />
+  </a>
+  <h3 class="project-title">
+    <a href="https://phonophasm.github.io/projects/focal-point-vr/">Focal Point</a>
+  </h3>
+  <p>
+    An audio-visual work about focus, distraction, and perception — using layered ambient textures and minimal visuals. A bridge between improvised music and visual experimentation, and a precursor to later interactive/VR pieces.
+  </p>
+  <p><a href="https://phonophasm.github.io/projects/focal-point-vr/">View project →</a></p>
 </div>
