@@ -12,8 +12,7 @@ My work explores immersive sound and virtual environments as tools for attention
 </p>
 
 <p>
-I’m especially interested in practices that prioritise care, listening, and participation over spectacle or optimisation.
-Outside of studio work, I’m drawn to cycling, swimming, yoga, meditation, and the small habits that support focus and wellbeing.
+Outside of my creative work, I enjoy travelling, swimming, cycling, yoga, and keeping a healthy balance between making and resting.
 </p>
 
 ## Latest posts
