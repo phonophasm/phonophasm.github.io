@@ -6,12 +6,16 @@ permalink: /projects/focal-point-2023/
 
 # Focal Point — Music for Concentration & Distraction
 
-Music written as the backbone of the **Focal Point** project: a set of pieces that circle around focus, interruption, and the mental noise of everyday life.
+*A music project exploring focus, interruption, and mental noise — developed alongside the interactive Focal Point environments.*
 
-The Focal Point album was created as **sound support** for the interactive Focal Point environments. Each track is based on real-world distractions and mental clutter, using titles and textures to hint at what pulls us away from focus. It was originally intended as an **interactive album**, where listeners could control a lead voice like in the installation—an idea paused, but not forgotten.
+![Focal Point album artwork](/assets/images/focal-point-2023.png)
+
+The **Focal Point** album was composed as a sonic counterpart to the interactive Focal Point project. It treats everyday distractions — thoughts, habits, notifications, internal loops — as compositional material, shaping sound around the way attention drifts, settles, and fractures.
 {: .tldr-highlight }
 
-## Watch the Full Audiovisual Album
+---
+
+## Watch the full audiovisual album
 
 <div class="video-container">
   <iframe
@@ -25,104 +29,93 @@ The Focal Point album was created as **sound support** for the interactive Focal
   </iframe>
 </div>
 
-![Focal Point album artwork](/assets/images/focal-point-2023.png)
 ---
 
 ## Overview
 
-Focal Point (album) sits at the intersection of:
+Focal Point (album) sits somewhere between:
 
-- soundtrack,
-- environmental/meditative music,
-- and an early prototype for **listener-agency in albums**.
+- ambient / environmental music,  
+- installation soundtrack,  
+- and an early sketch for **listener-agency in albums**.
 
-The concept:
+Rather than telling a story through lyrics, the tracks **encode states of attention**. Some feel restless or repetitive, others calm or suspended. Track titles act as quiet signposts — hints at what each piece is orbiting — even when the music itself remains abstract.
 
-- Treat everyday distractions—notifications, thoughts, habits, worries—as **invisible obstacles** to concentration.
-- Compose pieces that **embody** those distractions:
-  - some restless,
-  - some repetitive,
-  - some quietly invasive.
-- Use the **track titles** as a key to your internal map: what each sound is echoing, even without lyrics.
-
-So while the album can be heard as calm, textural ambient music, underneath it:
-
-- it’s a study of how focus drifts,
-- and how sound can both disrupt and support attention.
+The album can be experienced simply as slow, textural music, but beneath that surface it reflects on how sound can both **support concentration** and **become a distraction itself**.
 
 ---
 
-## Connection to the Focal Point Project
+## Relationship to the Focal Point project
 
-The album and the interactive project were designed as parts of one system.
+The album and the interactive Focal Point environments were conceived as parts of a single system.
 
-Shared ideas:
+Shared ideas include:
 
-- **Searching for Clarity**  
-  In the installation, you move toward a focal point; in the music, you move through layers of distraction toward moments of stillness.
-- **Distraction as Design**  
-  Musical motifs mirror the things that fragment focus in your day-to-day life. The pieces are shaped around those ideas, even if listeners only sense them subconsciously.
-- **Space for Control**  
-  Many tracks:
-  - leave deliberate gaps for a controllable lead voice,
-  - are structured in loops and slow evolutions,
-  - were designed so a listener’s input (or avatar/mouse/VR hand) could “pull” a line through the sound field.
+- **Searching for clarity**  
+  In the installation, participants move toward a focal point.  
+  In the music, listeners move through layers of interference toward moments of stillness.
 
-The interactive album version didn’t ship at the time as your Master’s work took priority, but this release documents that thinking.
+- **Distraction as material**  
+  Musical motifs mirror the rhythms of interruption — looping thoughts, subtle intrusions, recurring pulses.
 
----
+- **Space for control**  
+  Many tracks were structured with:
+  - gaps for a controllable lead voice,
+  - slow loops and evolving textures,
+  - room for an external input (mouse, body, VR hand) to “pull” a melodic line through the sound field.
 
-## Interactive Album (Future Direction)
-
-Focal Point (album) remains a **marker** for where you’d like to go:
-
-- **Interactive albums** where:
-  - listeners steer melodic lines,
-  - focus/attention is reflected in what they hear,
-  - distraction vs concentration becomes part of the composition.
-- **VR / web experiences** that:
-  - sync this music with responsive visuals,
-  - extend the original Focal Point logic into personal listening tools.
-- **Research potential** on:
-  - how agency affects immersion,
-  - how sound environments support or challenge concentration.
-
-This project keeps that thread open.
+An interactive album version — where listeners could directly shape parts of the music — was explored conceptually but paused as academic work took priority. This release documents that line of thinking rather than closing it.
 
 ---
 
-## Tools & Approach
+## Sound & approach
 
-- **Composed & produced in:** Logic Pro
-- **Sound palette:**
-  - soft synths, pads, evolving drones,
-  - subtle pulses and movements,
-  - restrained leads designed to be steerable.
-- **Design priorities:**
-  - work as long-form background for tasks or exploration,
-  - encode distraction themes without needing lyrics,
-  - stay compatible with interactive / installation use.
+- **Composed and produced in:** Logic Pro  
+- **Sound palette:**  
+  - soft synths, pads, and evolving drones  
+  - subtle rhythmic pulses  
+  - restrained leads designed to be steerable or replaceable  
+- **Design priorities:**  
+  - function as long-form listening for focus or reflection  
+  - encode distraction themes without explicit narrative  
+  - remain compatible with installation or interactive use  
 
-**Focal Point Interactive Artwork**  
-![Focal Point album artwork](/assets/projects/focal-point-art.jpg)
+![Focal Point interactive artwork](/assets/projects/focal-point-art.jpg)
 
 ---
 
-## Why Focal Point (Album) Matters
+## Interactive album (future direction)
 
-Within your wider body of work, Focal Point (album):
+Focal Point (album) remains a marker for future exploration:
 
-- Solidifies your interest in **focus, distraction, and mental space**.
+- **Interactive listening**  
+  Albums where attention, movement, or choice influences what is heard.
+
+- **Responsive environments**  
+  VR or web-based experiences that connect this music to evolving visuals and spatial feedback.
+
+- **Research potential**  
+  Investigating how agency, control, and ambiguity affect immersion, focus, and comfort.
+
+This project keeps that thread open rather than resolving it.
+
+---
+
+## Why Focal Point (album) matters
+
+Within the wider *Phonophasm* practice, Focal Point (album):
+
+- Solidifies an ongoing interest in **focus, distraction, and mental space**.  
 - Bridges:
-  - soundtrack writing,
-  - installation audio,
-  - and the idea of responsive / controllable music systems.
-- Provides a conceptual bridge from:
-  - early ambient experiments,
-  - to interactive environments,
-  - to VR instruments and potential future research on attention and stress.
+  - soundtrack composition,  
+  - installation audio,  
+  - and the idea of responsive musical systems.  
+- Acts as a conceptual stepping stone toward later work in:
+  - immersive environments,  
+  - VR instruments,  
+  - and exploratory tools for attention and presence.
 
-It is both a reflective standalone release and a blueprint for what interactive albums under *Phonophasm* could become.
+It stands both as a reflective standalone release and as a blueprint for what interactive albums could become.
 
 ---
 
