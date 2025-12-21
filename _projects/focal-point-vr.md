@@ -6,164 +6,173 @@ permalink: /projects/focal-point-vr/
 
 # Focal Point — Searching with Senses in 2D & VR
 
-An interactive audiovisual experiment that asks: *how does the medium change the way we search, focus, and feel immersed?*
+*An interactive audiovisual project exploring how different mediums shape the way we search, focus, and feel immersed.*
+
+> **Status:** Completed exploratory project. This page documents Focal Point as a finished comparison study and a conceptual bridge toward later immersive work.
 
 ![Hero artwork showing the focal point glowing within layered gradients](/assets/images/focal-point.png)
 
-Focal Point is a two-part project comparing a **projected depth-camera environment** and a **VR headset environment**, each built around the same core mechanic: using sound and abstract visuals to search for a hidden focal point. The work explores immersion, body movement, and sensory feedback, supported by a small user study comparing how people experience “searching” across both mediums.
+Focal Point is a two-part project comparing a **projected depth-camera environment** and a **virtual reality environment**, each built around the same core mechanic: searching for a hidden focal point using sound, abstract visuals, and body movement.
+
+By placing the same experience logic in two different mediums, the project explores how **immersion**, **embodiment**, and **sensory feedback** influence attention and the act of searching.
 {: .tldr-highlight }
 
 ---
 
 ## Overview
 
-Focal Point grew out of a desire to move beyond mouse-and-keyboard interaction into more embodied, sensory ways of navigating digital spaces.
+Focal Point grew from a desire to move beyond mouse-and-keyboard interaction toward more **embodied, sensory ways of navigating digital spaces**.
 
 At its core:
 
-- You guide a small **cursor/ball** using your body.
-- Abstract sound and visuals react to your distance from a **focal point**.
-- As you move closer, distractions reduce; as you move away, they intensify.
-- The experience exists in **two versions**:
-  - a **Projected (Kinect) Environment**, and
-  - a **Virtual Reality Environment**.
+- Participants guide a small **cursor / ball** using their body.
+- Abstract sound and visuals respond continuously to distance from a **focal point**.
+- As users move closer, distractions soften; as they move away, they intensify.
+- The experience exists in **two parallel versions**:
+  - a **Projected Environment** using a depth camera, and  
+  - a **Virtual Reality Environment** using a head-mounted display.
 
-This dual setup creates a direct comparison between **shared-space projection** and **fully immersive VR**, using the same conceptual rules.
+This dual setup allows for a direct comparison between **shared, observable interaction** and **fully immersive VR**, while keeping the conceptual rules consistent.
 
 ![Diagram of the staged searching experience showing how audio and visuals guide the user toward the goal](/assets/projects/Focal-Point/searching.png)
 
-### The searching experience
+---
 
-Participants begin each stage surrounded by layers of motion and sound that intentionally obscure the focal point. As they move:
+## The searching experience
 
-- **Audio cues** shift from diffuse drones to single tones, revealing proximity and direction.
-- **Visual cues** calm from turbulent noise to clean gradients when the focal point is near.
-- **Haptic memory** develops as participants learn how far to reach or rotate to maintain alignment.
+Participants begin each stage surrounded by layered motion and sound that intentionally obscure the focal point. As they move:
 
-Each stage introduces a new obstacle—offset focal points, moving distractions, or vertical depth—so the act of searching becomes an iterative process of tuning senses, rather than a single puzzle to solve.
+- **Audio cues** shift from diffuse drones to clearer tones, indicating proximity and direction.
+- **Visual cues** calm from turbulence to clean gradients as alignment improves.
+- **Bodily memory** develops as participants learn how far to reach, rotate, or lean to stay oriented.
+
+Each stage introduces new conditions — offset targets, moving distractions, or vertical depth — so searching becomes an ongoing process of **tuning the senses**, rather than solving a single puzzle.
 
 ---
 
 ## Concept
 
-The project treats the mind as a noisy landscape of overlapping thoughts—colour, motion, tone—through which we search for clarity.
+The project treats the mind as a noisy landscape of overlapping thoughts — colour, motion, tone — through which we search for clarity.
 
-Key ideas:
+Key ideas include:
 
-- **Searching as experience** – The process of exploring is more important than “winning”.
-- **Sensory guidance** – Audio tone and visual intensity guide you toward or away from the focal point.
-- **Embodied interaction** – Hands and body movement replace traditional interfaces to create a tighter loop between motion, perception, and feedback.
-- **Medium comparison** – Same concept, different tools, to see how environment and embodiment change engagement.
+- **Searching as experience**  
+  The act of exploration matters more than reaching an endpoint.
+
+- **Sensory guidance**  
+  Sound and visual intensity act as navigational signals rather than explicit instructions.
+
+- **Embodied interaction**  
+  Hands and body movement replace traditional interfaces, tightening the loop between action and perception.
+
+- **Medium comparison**  
+  Identical logic across different environments reveals how context and embodiment shape engagement.
 
 ---
 
-## Version 1 — Projected Environment (Depth Camera)
+## Version 1 — Projected environment (depth camera)
 
-Participants stand in front of a projected wall; a depth camera tracks their hand and moves a white ball across the screen.
+Participants stand in front of a projected wall while a depth camera tracks their hand, moving a white ball across the surface.
 
 As they search:
 
-- **Visuals**: abstract shapes, shifting colour fields, increasing calmness near the focal point.
-- **Audio**: a single evolving tone changes pitch/character with proximity.
-- **Interaction**: crossing a threshold on the floor “enters” the environment; body movement drives the search.
+- **Visuals** shift through abstract shapes, colour fields, and layered gradients.
+- **Audio** evolves as a single tone whose character changes with proximity.
+- **Interaction** begins when participants step into the tracked space; body movement drives navigation.
 
 This version is:
 
-- Easy to understand and more accessible in a public/exhibition space.
-- Less immersive than VR, but strong for shared, observable interaction.
+- Immediately legible and accessible in exhibition settings.
+- Less immersive than VR, but effective as a shared, observable experience.
 
 ![Album artwork used in the depth-camera installation, showing layered colours around the focal point](/assets/projects/Focal-Point/focal-point-art.jpg)
-
-![Participant using body movement to navigate the Kinect-projected searching space](/assets/projects/Focal-Point/kinect.png)
+![Participant using body movement to navigate the projected searching space](/assets/projects/Focal-Point/kinect.png)
 
 ---
 
-## Version 2 — Virtual Reality Environment (Quest 2 + Unity)
+## Version 2 — Virtual reality environment (Quest 2 + Unity)
 
-The VR version rebuilds the same searching rules inside a fully 3D environment.
+The VR version recreates the same searching rules inside a fully three-dimensional space.
 
-- **Platform**: Unity + Meta Quest 2 (hand tracking).
-- **Interaction**: a virtual ball attached to the user’s hand by an “invisible string” moves through 360° space.
-- **Visuals**: immersive abstract environments, particles, grids, and stages that evolve as users progress.
-- **Audio**: positional and proximity-based tones guide users through the search.
+- **Platform:** Unity + Meta Quest 2 (hand tracking).
+- **Interaction:** A virtual ball attached to the user’s hand via an “invisible string” moves freely through 360° space.
+- **Visuals:** Immersive abstract environments, particles, grids, and evolving stages.
+- **Audio:** Spatialised tones respond to position and distance from the focal point.
 
 This version:
 
-- Feels **more immersive, embodied, and game-like**.
-- Demands more orientation and adaptation but creates a stronger sense of presence and connection.
+- Feels more immersive and bodily engaging.
+- Requires greater orientation and adaptation.
+- Produces a stronger sense of presence and connection to the task.
 
 ![Participant wearing a headset inside the VR version, reaching toward the focal point](/assets/projects/Focal-Point/Focal-Point-VR.png)
-
 ![Concept art from the VR version, showing layered grids and particles around the focal point](/assets/projects/Focal-Point/VR-art.png)
 
 ---
 
-## Comparative Study
+## Comparative study
 
-A small user study invited participants to try **both** versions.
+A small comparative study invited participants to experience **both versions**.
 
-Approach:
-
-- Randomised order (coin flip) to reduce bias.
-- Post-experience **survey** (Likert scales) and **semi-structured interviews**.
-- Analysis of:
-  - searching difficulty,
-  - sense of involvement,
-  - connection between body and AV feedback,
-  - satisfaction when finding the focal point.
+**Method (summarised):**
+- Randomised order to reduce bias.
+- Post-experience surveys (Likert scales) and semi-structured interviews.
+- Focus on:
+  - perceived difficulty,
+  - sense of immersion,
+  - body–feedback connection,
+  - satisfaction with the searching process.
 
 ![Participants standing in front of the projection wall during the comparative study](/assets/projects/Focal-Point/participants.png)
 
-Interview transcripts were thematically coded, and keyword clustering highlighted the concepts participants repeated most often: orientation, immersion, and the importance of audio as an anchor when visual distractions increased. These findings fed back into stage design tweaks for both mediums.
+Interview transcripts were thematically coded, revealing recurring concepts such as **orientation**, **immersion**, and **audio as an anchor** when visual information became overwhelming.
 
-Key findings (summarised):
+**Key observations:**
+- **Projected version**
+  - Easier to understand and immediately approachable.
+  - Well suited to public or social spaces.
+- **VR version**
+  - Rated higher for immersion and bodily connection.
+  - Encouraged more movement and stronger presence.
+- **Across both**
+  - Participants valued exploration over “winning”.
+  - Intentional ambiguity and multiple paths increased engagement.
 
-- **Projected version**:
-  - Perceived as easier to understand.
-  - Good for simple, immediately legible interaction.
-- **VR version**:
-  - Rated higher for immersion, bodily connection, and overall satisfaction.
-  - Encouraged more movement and a stronger feeling of “being inside” the search.
-- **Across both**:
-  - Participants enjoyed **exploration** more than simply “solving” the task.
-  - Confusion + multiple paths (when intentional) can deepen engagement.
-
-![Keyword diagram highlighting interview themes such as “immersion”, “orientation”, and “audio as guide”](/assets/projects/Focal-Point/interviews.png)
+![Keyword diagram highlighting interview themes such as immersion, orientation, and audio guidance](/assets/projects/Focal-Point/interviews.png)
 
 ---
 
-## Tools & Implementation
+## Tools & implementation
 
-- **Projected Environment**
+- **Projected environment**
   - Processing 4 (Java)
   - Kinect depth camera (OpenKinect)
   - Minim (audio)
   - Single-user interaction in a shared visual space
 
-- **VR Environment**
-- Unity
+- **VR environment**
+  - Unity
   - Meta Quest 2 with hand tracking
-  - C# scripts recreating the focal point logic
-  - Spatialised audio and 360° abstract environments
+  - Custom C# scripts recreating the focal-point logic
+  - Spatial audio and abstract 360° environments
 
 ---
 
-## Why Focal Point Matters
+## Why it matters
 
 Focal Point acts as a **bridge project** between interactive art and research:
 
-- Tests how different mediums shape perception, immersion, and sensory searching.
-- Informs later work on **VR instruments**, **immersive focus tools**, and potential **stress/attention regulation environments**.
-- Provides a practical framework for comparing modalities when designing embodied, audio-visual experiences.
+- It demonstrates how different mediums shape perception, focus, and embodied searching.
+- It informs later work on **VR instruments**, **immersive focus tools**, and exploratory XR environments.
+- It provides a practical framework for comparing modalities when designing sensory-driven interaction.
 
 ---
 
-## What’s Next
+## What’s next
 
-Future development directions:
+Future directions include:
 
-- Extend levels to emphasise exploration and flow over “correct answers”.
-- Refine audiovisual behaviour for broader comfort and accessibility.
-- Integrate biometric/biofeedback data (e.g. heart rate, breathing) as part of the searching logic.
-- Reuse insights and codebase as foundations for new VR instruments and research prototypes.
-
+- Extending stages to emphasise flow over “correct answers”.
+- Refining audiovisual behaviour for comfort and accessibility.
+- Integrating biometric or biofeedback data (e.g. breathing or heart rate).
+- Reusing concepts and code as foundations for later VR and interactive projects.
