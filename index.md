@@ -26,9 +26,6 @@ Outside of studio work, I’m drawn to cycling, swimming, yoga, meditation, and 
     {% if post.excerpt %}
     <p>{{ post.excerpt }}</p>
     {% endif %}
-    {% if post.tags %}
-      <p>{% for t in post.tags %}<span class="tag">{{ t }}</span>{% endfor %}</p>
-    {% endif %}
   </div>
   {% endfor %}
 {% else %}
