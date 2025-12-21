@@ -8,11 +8,13 @@ tags: [VR, Unity, Music, Instrument, Quest 3, Passthrough, Audio]
 
 # PHONOSPHERE — VR sampler instrument
 
-*A performance-ready VR sampler for Meta Quest 3 with key/scale mapping, multi-sample layering, 8-track looping, and full-color passthrough.*
+*A VR sampler + looper for Meta Quest 3, exploring key/scale mapping, layered sampling, and mixed-reality performance through passthrough.*
+
+> **Status:** Active development (work in progress). This page documents the current state of PHONOSPHERE and will evolve as the instrument develops through testing, feedback, and performance.
 
 ![PHONOSPHERE hero]({{ '/assets/projects/phonosphere/title list image.png' | relative_url }} "Hero capture")
 
-PHONOSPHERE is a Unity-built VR instrument designed for live looping and expressive sampling. It lets you **map samples to musical keys and scales**, **layer multiple samples simultaneously**, and **record up to 8 loop tracks**—all inside **Quest 3 passthrough** so you can stay present with your band and audience.
+PHONOSPHERE is a Unity-built VR instrument in active development, designed for live looping and expressive sampling. It explores how **key/scale mapping**, **layered samples**, and **gesture-based interaction** can support musical performance inside VR, while staying connected to the physical world through **Quest 3 passthrough**.
 {: .tldr-highlight }
 
 ---
@@ -20,33 +22,35 @@ PHONOSPHERE is a Unity-built VR instrument designed for live looping and express
 ## What it is
 
 - **VR Sampler + Looper**  
-  Trigger, pitch, and stretch samples in musical context. Capture ideas quickly with up to **8 loop tracks**.
+  Trigger and shape samples in a musical context, then capture ideas quickly with up to **8 loop tracks** (current build target).
 
-- **Musical Intelligence**  
-  **Key & scale mapping** keeps everything in tune. Pick a key, select a scale (including custom scales), and perform without clashing notes.
+- **Musical Guardrails**  
+  **Key & scale mapping** keeps performances in tune. Pick a key, select a scale (including custom scales), and play without clashing notes.
 
 - **Multi-Sample Layers**  
   Stack pads/slots so **multiple samples can play simultaneously** (chords, textures, layered hits).
 
 - **Passthrough Performance**  
-  Built for **Meta Quest 3** passthrough so you can see your band, stage, and audience while performing.
+  Built for **Meta Quest 3** passthrough so you can see your band, stage, and audience while playing.
 
-- **Built for Stage**  
-  Fast UI, clear feedback, minimal friction. Designed to withstand long sets.
+- **Built for Long Sessions**  
+  Fast UI, clear feedback, minimal friction — designed with long rehearsal and performance sessions in mind.
 
 ![UI grid]({{ '/assets/projects/phonosphere/banner park.png' | relative_url }} "Key/scale grid view")
 
 ---
 
-## Core Features
+## Core Features (current build)
+
+The items below reflect the current development build and may change as PHONOSPHERE evolves.
 
 - **Key/Scale Mapping**: Major, minor, modes, and custom scales; per-scene or per-instrument configuration.  
 - **Sample Slots & Banks**: Load multiple samples, assign to pads/notes, layer sounds.  
-- **Up to 8 Loop Tracks**: Arm/record/overdub, quick clear, and visual meters.  
-- **Quest 3 Passthrough**: Perform in mixed reality; align with your physical setup.  
-- **Performance Controls**: Velocity-like modulation, latch/hold options, and quick mute/solo on loops.  
+- **Looping System**: Arm/record/overdub, quick clear, and visual feedback (loop workflow actively iterating).  
+- **Quest 3 Passthrough**: Perform in mixed reality; align the instrument with your physical setup.  
+- **Performance Controls**: Modulation options, latch/hold behaviours, and quick mute/solo concepts for live use.  
 - **(Optional) Audio-Reactive Visuals**: Lightweight reactive elements for feedback without distracting from playability.  
-- **Unity + OpenXR**: Modern XR pipeline; portable to future devices.
+- **Unity + OpenXR**: Modern XR pipeline; portable foundation for future devices.
 
 ![Passthrough]({{ '/assets/projects/phonosphere/screenshot 2.png' | relative_url }} "Passthrough view")
 ![In-app menu]({{ '/assets/projects/phonosphere/menu 2.png' | relative_url }} "Menu view")
@@ -56,9 +60,9 @@ PHONOSPHERE is a Unity-built VR instrument designed for live looping and express
 
 ## Short Demo Notes
 
-- **Scenario A — Live Band:** Use passthrough to stay locked with the drummer, capture a four-bar groove, layer textures on top, and ride the loop mutes for dynamics.  
+- **Scenario A — Live Band:** Use passthrough to stay locked with the drummer, capture a groove, layer textures on top, and ride loop mutes for dynamics.  
 - **Scenario B — Solo Set:** Build ambient beds with layered pads, add percussive hits in a different bank, then improvise with scale-locked leads.  
-- **Scenario C — Studio Sketching:** Rapidly try different keys/scales to find a vibe, commit takes into the looper, export stems later (pipeline WIP).
+- **Scenario C — Studio Sketching:** Rapidly try different keys/scales to find a vibe, commit takes into the looper, and refine later (export pipeline WIP).
 
 ![Performance]({{ '/assets/projects/phonosphere/banner.png' | relative_url }} "Live performance")
 
@@ -66,24 +70,24 @@ PHONOSPHERE is a Unity-built VR instrument designed for live looping and express
 
 ## Process (condensed)
 
-**Goal:** An instrument that feels *musical first* in VR—quick to learn, hard to outgrow.
+**Goal:** An instrument that feels *musical first* in VR — quick to learn, hard to outgrow.
 
 1) **Research & Constraints**  
    - Operating live in **MR (Quest 3 passthrough)** to reduce isolation from band/audience.  
-   - Keep CPU/GPU budget low for long sets; simple, readable UI over flashy visuals.
+   - Keep CPU/GPU budget low for long sessions; readable UI over flashy visuals.
 
 2) **Early Prototypes**  
    - **Grid-based sampler**: pads mapped to scale degrees for instant harmony.  
-   - **Looper add-on**: minimal HUD with transport states (arm/record/overdub).  
+   - **Looping add-on**: minimal HUD with transport states (arm/record/overdub).  
    - **Usability focus**: big hit areas, wrist-level UI when needed, reduced menus.
 
 3) **Iteration**  
    - **Sample layering** so chords/textures are one gesture away.  
-   - **Key/scale switching** with guardrails to prevent sudden dissonance mid-song.  
-   - **Latent bugs from long sessions**: addressed with fixed reference frames and careful device calibration practices for stability during 60+ minute sets.
+   - **Key/scale switching** with guardrails to reduce dissonance mid-song.  
+   - **Long-session stability**: attention to reference frames, calibration routines, and performance profiling.
 
 4) **Field Testing**  
-   - Rehearsals and first gig trials informed control placement, loop meters, and emergency “clear/mute” ergonomics.
+   - Rehearsals and early gig trials informing control placement, loop feedback, and emergency “clear/mute” ergonomics.
 
 ![Sketch]({{ '/assets/projects/phonosphere/screenshot 1.png' | relative_url }} "Early capture")
 ![Prototype]({{ '/assets/projects/phonosphere/touch 1.png' | relative_url }} "Interface contact")
@@ -95,25 +99,25 @@ PHONOSPHERE is a Unity-built VR instrument designed for live looping and express
 
 - **Engine:** Unity (OpenXR)  
 - **Device:** Meta Quest 3 (Passthrough)  
-- **Audio:** Unity Audio/Mixer groups; scale/key mapping logic; 8-track looper system  
-- **Input:** Controllers or hands (project-dependent)  
-- **Build:** Android (Quest) with performance profiling & long-session stability checks
+- **Audio:** Unity Audio/Mixer groups; scale/key mapping logic; looping system (in development)  
+- **Input:** Hands and/or controllers (project-dependent)  
+- **Build:** Android (Quest) with profiling and long-session stability checks
 
 ---
 
 ## Why it matters
 
-VR instruments often sacrifice *musicality* for *novelty*. PHONOSPHERE flips this: **musical guardrails** (key/scale mapping), **looping as a compositional tool**, and **MR presence** to keep performers connected with their environment. It’s built for **real shows**, not just demos.
+Many VR instruments prioritise *novelty* over *musicality*. PHONOSPHERE pushes in the opposite direction: **musical guardrails** (key/scale mapping), **looping as a compositional tool**, and **MR presence** to keep performers connected with their environment. It’s designed with **real rehearsals and shows** in mind, not only demos.
 
 ---
 
 ## What’s next
 
-- Stem export & clip management
-- Per-track FX and sends
-- Deeper **custom scale** editor and per-pad micro-tuning
-- Performance presets & setlist loader
-- Expanded audio-reactive cues that stay subtle on stage
+- Stem export & clip management  
+- Per-track FX and sends  
+- Deeper **custom scale** editor and per-pad micro-tuning  
+- Performance presets & setlist loader  
+- Expanded audio-reactive cues that stay subtle on stage  
 
 ---
 
