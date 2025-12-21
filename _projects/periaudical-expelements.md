@@ -1,16 +1,17 @@
 ---
 layout: default
-title: "Periaudical Expelements — Elements, Frequencies & Early Worlds"
+title: "Periaudical Expelements — Elements & Binaural Frequencies"
 permalink: /projects/periaudical-expelements/
 ---
 
-# Periaudical Expelements — Elements, Frequencies & Early Worlds
+# Periaudical Expelements — Elements & Binaural Frequencies
 
-*A music and audiovisual project using chemical elements, frequency ideas, and early digital worlds as prompts for abstract composition.*
+*A music and audiovisual project using the periodic table as a daily structure and binaural frequency differences as a compositional guide.*
 
 ![Periaudical Expelements album artwork](/assets/images/periaudical-expelements.png)
 
-Periaudical Expelements (2022) continues the abstract direction established in *Spectrum*, introducing loose systems drawn from the **periodic table** and **binaural frequency concepts**. Each piece treats elements, numbers, and imagined reactions as creative prompts rather than scientific claims, allowing structure to emerge without constraining intuition.
+Periaudical Expelements (2022) builds on the abstract, instinct-driven process of *Spectrum*, introducing a simple system:  
+**one track per day**, each titled after a **chemical element**, with the **element’s atomic number used as the binaural beat difference** between left and right audio channels.
 {: .tldr-highlight }
 
 ---
@@ -33,54 +34,68 @@ Periaudical Expelements (2022) continues the abstract direction established in *
 
 ## Overview
 
-Where *Spectrum* leaned heavily on instinct, Periaudical Expelements introduces a playful organising logic:
+Where *Spectrum* was driven almost entirely by instinct, Periaudical Expelements introduces **light structure without rigidity**.
 
-- Each track loosely references a **chemical element**.
-- Element numbers and associations inform **frequency ranges**, density, or motion.
-- Titles and visuals echo imagined reactions, microscopic structures, and speculative “expelements”.
+The rules were intentionally simple:
 
-The album functions like a lab notebook:
+- Each track is named after an **element** from the periodic table.
+- The **atomic number** of that element defines the **binaural beat difference** (the frequency gap between left and right channels).
+- Everything else — harmony, texture, duration, visuals — remains open and intuitive.
 
-- testing structure without losing abstraction,  
-- deepening the relationship between **sound and visual identity**,  
-- and sketching early versions of a recognisable *Phonophasm* world.
+The periodic table functions as a **creative calendar**, not a scientific framework. It provides momentum and constraint without prescribing meaning.
+
+---
+
+## Binaural frequencies (light context)
+
+Binaural beats occur when two slightly different frequencies are played separately to each ear, producing a perceived rhythmic difference.
+
+While not treated as medical or therapeutic tools here, binaural differences are often discussed in relation to general brainwave ranges:
+
+- **Delta (≈1–4 Hz)** — associated with deep rest  
+- **Theta (≈4–8 Hz)** — often linked to dreaming or meditation  
+- **Alpha (≈8–13 Hz)** — relaxed focus, calm awareness  
+- **Beta (≈13–30 Hz)** — alertness, thinking, activity  
+- **Gamma (30+ Hz)** — intensity, complexity, integration  
+
+In Periaudical Expelements, these ranges are used **poetically rather than prescriptively** — as a way to influence mood, density, and internal motion, not to induce specific states.
+
+The numbers act as *suggestions*, not outcomes.
 
 ---
 
 ## Process & concept
 
-Core ideas behind the project include:
+Key ideas behind the project:
 
-- **Periodic table as prompt**  
-  Elements act as narrative and tonal guides rather than strict compositional rules.
+- **Daily practice through structure**  
+  One element per day provided rhythm and continuity without creative pressure.
+
+- **Elements as labels, not metaphors**  
+  The element names function primarily as identifiers — anchors for repetition — rather than symbolic storytelling devices.
 
 - **Frequency-led exploration**  
-  Binaural-style layers, detuned tones, and slow beating patterns create subtle perceptual shifts and internal motion.
+  Binaural differences introduce subtle internal movement, beating, and spatial tension within otherwise ambient textures.
 
 - **Improvised foundations**  
-  Many tracks began as intuitive performances, refined only enough to maintain coherence while preserving their exploratory quality.
+  Most tracks began as intuitive performances, shaped just enough to maintain flow while preserving their raw quality.
 
-This phase also marked a shift toward **intentional cohesion** — treating music, visuals, titles, and presentation as parts of a single evolving system.
+This phase marked a shift toward **intentional systems** — rules that guide without dominating.
 
 ---
 
-## Visuals, NFTs & early digital spaces
+## Visuals, NFTs & The AV Club
 
-Periaudical Expelements sits within your early exploration of digital-native presentation and community.
+Periaudical Expelements developed alongside early experiments in digital-native presentation.
 
 - **Visual companions**  
-  Abstract, element-inspired artworks developed alongside each track.
+  Abstract visuals were created as responses to each track, maintaining loose coherence rather than literal representation.
 
 - **The AV Club**  
-  A shared space where audio-visual artists:
-  - exchanged process and tools,  
-  - experimented with presentation formats,  
-  - and collaborated on releases and virtual exhibitions.
+  A shared space where audio-visual artists exchanged tools, ideas, and works-in-progress, exploring new ways to present time-based media online.
 
-- **Galleries & drops**  
-  Participation in online galleries and early NFT releases helped shape how Phonophasm operates as both a **sound** and **visual** practice.
-
-These contexts were less about speculation and more about testing new ways of sharing time-based, audio-visual work.
+- **Galleries & releases**  
+  Participation in virtual galleries and early NFT platforms focused on **format exploration**, not speculation — testing how sound and visuals could exist together in digital spaces.
 
 ![Periaudical Expelements full artwork collection](/assets/projects/PE/Periaudical%20Expelements.jpg)
 
@@ -97,36 +112,33 @@ Periaudical Expelements also functioned as a technical sandbox.
   - Electric guitar and bass  
   - Layered vocal textures  
 - **Processing**
-  - delays, reverbs, modulation, and subtle saturation  
-  - slow automation to encourage gradual change
+  - delays, reverbs, modulation  
+  - slow automation to support gradual change  
 
 ### Visuals & motion
-- **TouchDesigner** — early audio-reactive and generative experiments  
-- **Blender** — abstract 3D forms and speculative “element worlds”  
+- **TouchDesigner** — early audio-reactive experiments  
+- **Blender** — abstract 3D forms and rendered elements  
 - **Procreate** — hand-drawn textures and symbols  
-- **Resolume** — looping and live playback tests  
-- **Magic Music Visuals** — music-driven generative forms  
-- **Final Cut Pro** — editing albums, loops, and gallery material
+- **Resolume** — looping and playback tests  
+- **Magic Music Visuals** — generative visual studies  
+- **Final Cut Pro** — editing albums, loops, and documentation  
 
-This toolchain quietly laid groundwork for later VR and interactive projects, where sound, image, and system design are treated as one interconnected practice.
+This toolchain laid important groundwork for later immersive and interactive work.
 
 ---
 
 ## Why Periaudical Expelements matters
 
-Within the wider *Phonophasm* body of work, this project:
+Within the wider *Phonophasm* practice, this project:
 
-- Extends the **audio-visual abstraction** initiated in *Spectrum*.  
-- Introduces **rule-based prompts** that foreshadow:
-  - generative systems,  
-  - interactive installations,  
-  - and VR instruments.  
-- Marks a moment of outward engagement:
-  - sharing work publicly,  
-  - forming artist networks,  
-  - and presenting releases as chapters within an evolving practice.
+- Introduces **rule-based creativity** without losing intuition.
+- Explores frequency and perception as compositional parameters.
+- Acts as a bridge between:
+  - freeform early experiments (*Spectrum*),
+  - system-driven work (*Oscillations*),
+  - and later immersive instruments and environments.
 
-Periaudical Expelements stands as both a self-contained album and a **bridge** toward your later immersive, interactive, and research-led projects.
+It represents a moment where **daily structure, sound, and attention** began to align.
 
 ---
 
