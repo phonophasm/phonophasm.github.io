@@ -6,12 +6,16 @@ permalink: /projects/periaudical-expelements/
 
 # Periaudical Expelements — Elements, Frequencies & Early Worlds
 
-A continuation of abstract experiments: using the periodic table, binaural frequencies, and early NFT-era visuals to sketch out a more defined Phonophasm universe.
+*A music and audiovisual project using chemical elements, frequency ideas, and early digital worlds as prompts for abstract composition.*
 
-Periaudical Expelements (2022) builds on Spectrum’s abstract process, this time using **chemical elements** and **binaural frequencies** as loose guides for each piece. It runs parallel with early steps into **digital artwork, NFTs, and The AV Club**, where audio-visual artists shared work, built galleries, and explored new ways of presenting their work.
+![Periaudical Expelements album artwork](/assets/images/periaudical-expelements.png)
+
+Periaudical Expelements (2022) continues the abstract direction established in *Spectrum*, introducing loose systems drawn from the **periodic table** and **binaural frequency concepts**. Each piece treats elements, numbers, and imagined reactions as creative prompts rather than scientific claims, allowing structure to emerge without constraining intuition.
 {: .tldr-highlight }
 
-## Watch the Full Audiovisual Album
+---
+
+## Watch the full audiovisual album
 
 <div class="video-container">
   <iframe
@@ -25,104 +29,104 @@ Periaudical Expelements (2022) builds on Spectrum’s abstract process, this tim
   </iframe>
 </div>
 
-![Periaudical Expelements album artwork](/assets/images/periaudical-expelements.png)
-
 ---
 
 ## Overview
 
-Where Spectrum was pure instinct, Periaudical Expelements adds a playful system:
+Where *Spectrum* leaned heavily on instinct, Periaudical Expelements introduces a playful organising logic:
 
-- Each track is linked to an **element** from the periodic table.
-- Element numbers loosely inform **frequencies** and binaural beat structures.
-- Visuals and titles echo microscopic structures, reactions, and imagined “expelements”.
+- Each track loosely references a **chemical element**.
+- Element numbers and associations inform **frequency ranges**, density, or motion.
+- Titles and visuals echo imagined reactions, microscopic structures, and speculative “expelements”.
 
-The album becomes a lab:
+The album functions like a lab notebook:
 
-- a place to test structure without losing spontaneity,
-- a step deeper into pairing **sound + visual identity**,
-- and an early move toward a recognisable Phonophasm language.
-
----
-
-## Process & Concept
-
-Core ingredients:
-
-- **Periodic Table as Framework**
-  Element associations act as prompts: guiding tone, density, or rhythm rather than enforcing strict rules.
-- **Binaural & Textural Experiments**
-  Binaural-style layers and detuned voices create gentle perceptual shifts—suggesting inner movement and chemical drift.
-- **Improvised Structures**
-  Many tracks began as intuitive performances, refined just enough to keep their experimental feel.
-
-This phase also marked:
-
-- more intentional **branding and consistency**,
-- integrating artwork, titles, and sonics into a shared visual/sound world,
-- and taking first steps into presenting work in curated, digital-native spaces.
+- testing structure without losing abstraction,  
+- deepening the relationship between **sound and visual identity**,  
+- and sketching early versions of a recognisable *Phonophasm* world.
 
 ---
 
-## Visuals, NFTs & The AV Club
+## Process & concept
 
-Periaudical Expelements sits inside your early exploration of crypto art and community.
+Core ideas behind the project include:
 
-- **Visual Pairings**
-  Abstract, element-inspired pieces built as companions to each track.
-- **The AV Club**
-  A hosted space where audio-visual NFT artists:
-  - shared process,
-  - discussed tools and platforms,
-  - collaborated on releases, gallery builds, and experiments.
-- **Galleries & Drops**
-  Involvement in virtual galleries and multi-platform releases helped shape how Phonophasm is framed as both **sound** and **visual practice**.
+- **Periodic table as prompt**  
+  Elements act as narrative and tonal guides rather than strict compositional rules.
+
+- **Frequency-led exploration**  
+  Binaural-style layers, detuned tones, and slow beating patterns create subtle perceptual shifts and internal motion.
+
+- **Improvised foundations**  
+  Many tracks began as intuitive performances, refined only enough to maintain coherence while preserving their exploratory quality.
+
+This phase also marked a shift toward **intentional cohesion** — treating music, visuals, titles, and presentation as parts of a single evolving system.
+
+---
+
+## Visuals, NFTs & early digital spaces
+
+Periaudical Expelements sits within your early exploration of digital-native presentation and community.
+
+- **Visual companions**  
+  Abstract, element-inspired artworks developed alongside each track.
+
+- **The AV Club**  
+  A shared space where audio-visual artists:
+  - exchanged process and tools,  
+  - experimented with presentation formats,  
+  - and collaborated on releases and virtual exhibitions.
+
+- **Galleries & drops**  
+  Participation in online galleries and early NFT releases helped shape how Phonophasm operates as both a **sound** and **visual** practice.
+
+These contexts were less about speculation and more about testing new ways of sharing time-based, audio-visual work.
 
 ![Periaudical Expelements full artwork collection](/assets/projects/PE/Periaudical%20Expelements.jpg)
 
 ---
 
-## Tools & Workflow
+## Tools & workflow
 
-Periaudical Expelements was also a technical playground.
+Periaudical Expelements also functioned as a technical sandbox.
 
-**Audio**
+### Audio
+- **Logic Pro** — composition, recording, arrangement, and mixing  
+- **Sound sources**
+  - MIDI instruments and samples  
+  - Electric guitar and bass  
+  - Layered vocal textures  
+- **Processing**
+  - delays, reverbs, modulation, and subtle saturation  
+  - slow automation to encourage gradual change
 
-- **Logic Pro** – main environment for writing, recording, arranging, and mixing.
-- **Instruments**:
-  - MIDI keyboard + sampled instruments
-  - Real electric guitar and bass
-  - Layered vocals and vocal textures
-- **Effects** – delays, reverbs, modulation, and subtle processing to create depth and evolving tonal spaces.
+### Visuals & motion
+- **TouchDesigner** — early audio-reactive and generative experiments  
+- **Blender** — abstract 3D forms and speculative “element worlds”  
+- **Procreate** — hand-drawn textures and symbols  
+- **Resolume** — looping and live playback tests  
+- **Magic Music Visuals** — music-driven generative forms  
+- **Final Cut Pro** — editing albums, loops, and gallery material
 
-**Visuals & Motion**
-
-- **TouchDesigner** – early experiments in real-time, audio-reactive visuals.
-- **Blender** – 3D forms and rendered elements for abstract “element worlds”.
-- **Procreate** – hand-drawn textures, symbols, and sketches.
-- **Resolume** – live/looping playback and performance tests.
-- **Magic Music Visuals** – generative, music-driven forms.
-- **Final Cut Pro** – editing promos, loops, and gallery materials.
-
-This toolchain quietly set the foundation for later VR and interactive work, where code, sound, and image are treated as one connected system.
+This toolchain quietly laid groundwork for later VR and interactive projects, where sound, image, and system design are treated as one interconnected practice.
 
 ---
 
-## Why Periaudical Expelements Matters
+## Why Periaudical Expelements matters
 
-Within your wider practice, this project:
+Within the wider *Phonophasm* body of work, this project:
 
-- Extends the **audio-visual link** seeded in Spectrum.
-- Experiments with **rule-based abstraction** (elements, frequencies) that foreshadow:
-  - generative systems,
-  - interactive installations,
-  - and VR instruments.
-- Marks the moment you:
-  - engaged publicly as *Phonophasm*,
-  - built artist networks,
-  - and treated each release as part of a continuous, evolving body of work.
+- Extends the **audio-visual abstraction** initiated in *Spectrum*.  
+- Introduces **rule-based prompts** that foreshadow:
+  - generative systems,  
+  - interactive installations,  
+  - and VR instruments.  
+- Marks a moment of outward engagement:
+  - sharing work publicly,  
+  - forming artist networks,  
+  - and presenting releases as chapters within an evolving practice.
 
-It stands as both a self-contained album and a **bridge** to your later AV, VR, and research-led projects.
+Periaudical Expelements stands as both a self-contained album and a **bridge** toward your later immersive, interactive, and research-led projects.
 
 ---
 
