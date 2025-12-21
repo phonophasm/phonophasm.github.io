@@ -14,7 +14,16 @@ permalink: /about/
     My background combines engineering, music, and an MA in creative/interaction design, with recent work focusing on VR, sensory manipulation, and tools that support focus, reflection, and altered states of attention.
   </p>
 
-  <img src="/assets/images/about.png" alt="Portrait of Pete (Phonophasm)." />
+  <div class="about-collage" aria-label="A collage of Pete's studio and creative work.">
+    <img src="/assets/images/about/IMG_0473.jpg" alt="Audio gear and cables in the studio." />
+    <img src="/assets/images/about/IMG_1047.jpg" alt="A close-up of creative tools on a desk." />
+    <img src="/assets/images/about/IMG_1498.JPG" alt="Live performance setup with lighting." />
+    <img src="/assets/images/about/IMG_2734.JPG" alt="Detail shot of a modular instrument." />
+    <img src="/assets/images/about/IMG_4651.png" alt="Immersive visuals during a performance." />
+    <img src="/assets/images/about/IMG_6101.jpg" alt="Studio space with instruments and plants." />
+    <img src="/assets/images/about/IMG_6102.jpg" alt="Close-up of handmade audio gear." />
+    <img src="/assets/images/about/about.png" alt="Portrait of Pete (Phonophasm)." />
+  </div>
 
   <p>
     Alongside my creative practice, I’m interested in ways of living that support balance and attention —
