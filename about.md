@@ -8,16 +8,16 @@ permalink: /about/
 
 <div class="card">
 
-  <figure class="about-portrait">
-    <img src="/assets/images/about/about.png" alt="Portrait of Pete (Phonophasm)." />
-  </figure>
-
   <p><strong>Hi — I’m Pete (Phonophasm).</strong></p>
 
   <p>
     I make immersive audio-visual work, build weird instruments (often in VR), and chase the feeling of being fully inside a sound.
     I like projects that feel calm, curious, and a little bit unreal — more “come closer” than “look at me”.
   </p>
+
+  <figure class="about-portrait">
+    <img src="/assets/images/about/about.png" alt="Portrait of Pete (Phonophasm)." />
+  </figure>
 
   <h2>What I care about</h2>
   <p>
@@ -47,7 +47,7 @@ permalink: /about/
   </figure>
   -->
 
-  <h2>Studio snapshots</h2>
+  <h2>Snapshots</h2>
   <div class="about-row" aria-label="Studio and performance images.">
     <img src="/assets/images/about/IMG_6101.jpg" alt="Studio space with instruments and plants." />
     <img src="/assets/images/about/IMG_0473.jpg" alt="Audio gear and cables in the studio." />
