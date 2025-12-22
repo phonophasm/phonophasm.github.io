@@ -23,6 +23,15 @@ permalink: /about/
   <p>
     A lot of my work is basically a question: what if technology helped us listen better?
   </p>
+  <div class="about-collage" aria-label="Project, exhibition, and performance images.">
+    <img src="/assets/images/focal-point.png" alt="Focal Point project installation detail." />
+    <img src="/assets/images/neo-sense.png" alt="Neo-Sense project visuals." />
+    <img src="/assets/images/matsu.png" alt="Matsu project documentation." />
+    <img src="/assets/images/focal-point-2023.png" alt="Focal Point exhibition moment." />
+    <img src="/assets/images/about/IMG_4651.png" alt="Live performance moment." />
+    <div class="about-placeholder" aria-label="Space reserved for participant testing photo.">Participant testing photo</div>
+    <div class="about-placeholder" aria-label="Space reserved for exhibition shot.">Exhibition shot</div>
+  </div>
   <ul>
     <li>Attention as something to protect, not harvest</li>
     <li>Playful interaction over “perfect” performance</li>
@@ -47,11 +56,10 @@ permalink: /about/
   </figure>
   -->
 
-  <h2>Snapshots</h2>
-  <div class="about-row" aria-label="Studio and performance images.">
-    <img src="/assets/images/about/IMG_6101.jpg" alt="Studio space with instruments and plants." />
-    <img src="/assets/images/about/IMG_0473.jpg" alt="Audio gear and cables in the studio." />
-    <img src="/assets/images/about/IMG_1498.JPG" alt="Live performance setup with lighting." />
+  <div class="about-row" aria-label="Personal snapshots.">
+    <div class="about-placeholder" aria-label="Space reserved for cycling photo.">Cycling</div>
+    <div class="about-placeholder" aria-label="Space reserved for photo eating with my wife.">Eating with my wife</div>
+    <div class="about-placeholder" aria-label="Space reserved for travelling photo.">Travelling</div>
   </div>
 
 </div>
