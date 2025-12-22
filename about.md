@@ -27,7 +27,6 @@ permalink: /about/
     <img src="/assets/images/about/work/Phonosphere%20nature.png" alt="Phonosphere installation in nature." />
     <img src="/assets/images/about/work/matsu%20exhibition.png" alt="Matsu exhibition documentation." />
     <img src="/assets/images/about/work/focal-point.png" alt="Focal Point project detail." />
-    <img src="/assets/images/about/work/performance%202.jpg" alt="Live performance moment." />
   </div>
   <ul>
     <li>Attention as something to protect, not harvest</li>
