@@ -24,13 +24,10 @@ permalink: /about/
     A lot of my work is basically a question: what if technology helped us listen better?
   </p>
   <div class="about-collage" aria-label="Project, exhibition, and performance images.">
-    <img src="/assets/images/focal-point.png" alt="Focal Point project installation detail." />
-    <img src="/assets/images/neo-sense.png" alt="Neo-Sense project visuals." />
-    <img src="/assets/images/matsu.png" alt="Matsu project documentation." />
-    <img src="/assets/images/focal-point-2023.png" alt="Focal Point exhibition moment." />
-    <img src="/assets/images/about/IMG_4651.png" alt="Live performance moment." />
-    <div class="about-placeholder" aria-label="Space reserved for participant testing photo.">Participant testing photo</div>
-    <div class="about-placeholder" aria-label="Space reserved for exhibition shot.">Exhibition shot</div>
+    <img src="/assets/images/about/work/Phonosphere%20nature.png" alt="Phonosphere installation in nature." />
+    <img src="/assets/images/about/work/matsu%20exhibition.png" alt="Matsu exhibition documentation." />
+    <img src="/assets/images/about/work/focal-point.png" alt="Focal Point project detail." />
+    <img src="/assets/images/about/work/performance%202.jpg" alt="Live performance moment." />
   </div>
   <ul>
     <li>Attention as something to protect, not harvest</li>
@@ -57,9 +54,9 @@ permalink: /about/
   -->
 
   <div class="about-row" aria-label="Personal snapshots.">
-    <div class="about-placeholder" aria-label="Space reserved for cycling photo.">Cycling</div>
-    <div class="about-placeholder" aria-label="Space reserved for photo eating with my wife.">Eating with my wife</div>
-    <div class="about-placeholder" aria-label="Space reserved for travelling photo.">Travelling</div>
+    <img src="/assets/images/about/life/cycling.jpg" alt="Cycling outdoors." />
+    <img src="/assets/images/about/life/eating.png" alt="Dinner with my wife." />
+    <img src="/assets/images/about/life/performance.JPG" alt="Playing live music." />
   </div>
 
 </div>
