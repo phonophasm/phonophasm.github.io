@@ -12,6 +12,8 @@ tags: [VR, Unity, Music, Instrument, Quest 3, Passthrough, Audio]
 
 > **Status:** Active development (work in progress). This page documents the current state of PHONOSPHERE and will evolve as the instrument develops through testing, feedback, and performance.
 
+**Demo:** [PHONOSPHERE demo on SideQuest](https://sidequestvr.com/app/45447)
+
 ![PHONOSPHERE hero]({{ '/assets/projects/phonosphere/title list image.png' | relative_url }} "Hero capture")
 
 PHONOSPHERE is a Unity-built VR instrument in active development, designed for live looping and expressive sampling. It explores how **key/scale mapping**, **layered samples**, and **gesture-based interaction** can support musical performance inside VR, while staying connected to the physical world through **Quest 3 passthrough**.
