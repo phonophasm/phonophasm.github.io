@@ -12,7 +12,7 @@ After months of building, testing, breaking, and rebuilding, I’m sharing the f
 This demo is an early snapshot rather than a finished product, but it already expresses the core idea behind the project:  
 making music in VR feel **physical, playful, and embodied**, using your hands and movement as the primary interface.
 
-A download link will be added here soon when the demo goes live on SideQuest.
+Download the demo on SideQuest: [PHONOSPHERE demo](https://sidequestvr.com/app/45447).
 
 ---
 
@@ -129,7 +129,9 @@ Feedback from this stage will directly influence the direction of the full relea
 
 ---
 
-## Demo link coming soon
+## Demo link
+
+Play the demo here: [PHONOSPHERE demo on SideQuest](https://sidequestvr.com/app/45447).
 
 This post will be updated with:
 
