@@ -358,8 +358,7 @@ pre {
     padding: 2.5rem var(--page-padding);
   }
 
-  .about-collage,
   .about-row {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: 1fr;
   }
 }

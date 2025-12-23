@@ -23,11 +23,6 @@ permalink: /about/
   <p>
     A lot of my work is basically a question: what if technology helped us listen better?
   </p>
-  <div class="about-collage" aria-label="Project, exhibition, and performance images.">
-    <img src="/assets/images/about/work/Phonosphere%20nature.png" alt="Phonosphere installation in nature." />
-    <img src="/assets/images/about/work/matsu%20exhibition.png" alt="Matsu exhibition documentation." />
-    <img src="/assets/images/about/work/performance.JPG" alt="Live performance visuals." />
-  </div>
   <ul>
     <li>Attention as something to protect, not harvest</li>
     <li>Playful interaction over “perfect” performance</li>
