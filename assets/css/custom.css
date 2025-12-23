@@ -72,15 +72,15 @@ body {
 
 .about-collage {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 0.75rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.6rem;
   margin: 1.5rem 0 2rem;
 }
 
 .about-collage img,
 .about-collage .about-placeholder {
   width: 100%;
-  height: auto;
+  height: 140px;
   display: block;
   object-fit: contain;
   border-radius: 12px;
@@ -103,15 +103,15 @@ body {
 
 .about-row {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 0.75rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.6rem;
   margin: 1.5rem 0 0;
 }
 
 .about-row img,
 .about-row .about-placeholder {
   width: 100%;
-  min-height: 140px;
+  height: 140px;
   border-radius: 12px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
   object-fit: cover;
@@ -358,7 +358,8 @@ pre {
     padding: 2.5rem var(--page-padding);
   }
 
-  .about-collage {
-    grid-template-columns: minmax(0, 1fr);
+  .about-collage,
+  .about-row {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
