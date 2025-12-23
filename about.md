@@ -26,7 +26,7 @@ permalink: /about/
   <div class="about-collage" aria-label="Project, exhibition, and performance images.">
     <img src="/assets/images/about/work/Phonosphere%20nature.png" alt="Phonosphere installation in nature." />
     <img src="/assets/images/about/work/matsu%20exhibition.png" alt="Matsu exhibition documentation." />
-    <img src="/assets/images/about/work/focal-point.png" alt="Focal Point project detail." />
+    <img src="/assets/images/about/work/performance.JPG" alt="Live performance visuals." />
   </div>
   <ul>
     <li>Attention as something to protect, not harvest</li>
@@ -55,7 +55,7 @@ permalink: /about/
   <div class="about-row" aria-label="Personal snapshots.">
     <img src="/assets/images/about/life/cycling.jpg" alt="Cycling outdoors." />
     <img src="/assets/images/about/life/eating.png" alt="Dinner with my wife." />
-    <img src="/assets/images/about/life/performance.JPG" alt="Playing live music." />
+    <img src="/assets/images/about/life/teach.png" alt="Teaching a workshop." />
   </div>
 
 </div>
