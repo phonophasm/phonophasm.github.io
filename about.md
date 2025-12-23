@@ -41,7 +41,7 @@ permalink: /about/
 
   <h2>Life outside the studio</h2>
   <p>
-    When I’m not making things, I’m usually travelling, cycling, swimming, or doing yoga and meditation.
+    When I’m not making things, I’m usually teaching, travelling, cycling, swimming, or doing yoga and meditation.
     Those habits keep me grounded, and they quietly shape my work: rhythm, pacing, recovery, patience.
   </p>
 
