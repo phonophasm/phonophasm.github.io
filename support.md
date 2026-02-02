@@ -4,9 +4,9 @@ title: Support
 permalink: /support/
 ---
 
-# PhonoSPHERE Support
+# PHONOSPHERE Support
 
-PhonoSPHERE is an independent VR music and audiovisual project designed for creative exploration, relaxation, and experimentation.
+PHONOSPHERE is an independent VR music and audiovisual project designed for creative exploration, relaxation, and experimentation.
 
 If you experience any issues, have questions, or would like to share feedback, you can contact us using the details below.
 
@@ -24,9 +24,9 @@ When reporting an issue, it helps to include:
 
 ## Known Limitations
 
-PhonoSPHERE is developed and maintained by a small independent team. While we aim to fix issues and improve the experience over time, response times may vary.
+PHONOSPHERE is developed and maintained by a small independent team. While we aim to fix issues and improve the experience over time, response times may vary.
 
-Thank you for your patience and for being part of the PhonoSPHERE journey.
+Thank you for your patience and for being part of the PHONOSPHERE journey.
 
 ## Updates
 
