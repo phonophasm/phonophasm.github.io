@@ -12,9 +12,7 @@ If you experience any issues, have questions, or would like to share feedback, y
 
 ## Contact
 
-Email: [support@phonophasm.com](mailto:support@phonophasm.com)
-
-(or your preferred contact email)
+Email: [heterparrison@gmail.com](mailto:heterparrison@gmail.com)
 
 When reporting an issue, it helps to include:
 
