@@ -147,3 +147,5 @@ Many VR instruments prioritise *novelty* over *musicality*. PHONOSPHERE pushes i
 ## Press / Demo Requests
 
 *Interested in a demo or collab?* Reach out via the contact links on this site.
+
+**Support:** Visit the [PhonoSPHERE Support page]({{ '/support/' | relative_url }}) for help, issue reporting tips, and updates.
