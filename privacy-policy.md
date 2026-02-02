@@ -8,7 +8,7 @@ permalink: /phonosphere-privacy-policy/
 
 Last updated: February 2, 2026
 
-This Privacy Policy explains how we handle information when you use Phonosphere (“the App”).
+This Privacy Policy explains how we handle information when you use PHONOSPHERE.
 
 We are committed to protecting your privacy. The App is designed to be used without creating an account and without providing personal information.
 
