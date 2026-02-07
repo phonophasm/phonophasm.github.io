@@ -43,7 +43,7 @@ Outside of my creative work, I enjoy travelling, swimming, cycling, yoga, and ke
   <p>
     A VR instrument for ambient and experimental performance on Quest headsets. Spatial “sound objects” are triggered and shaped through hand tracking, encouraging exploratory play and embodied musical gesture.
   </p>
-  <p><a href="https://phonophasm.github.io/projects/vr-instrument/">View project →</a></p>
+  <p><a href="https://phonophasm.github.io/projects/phonosphere/">View project →</a></p>
 </div>
 
 <div class="card">
