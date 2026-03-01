@@ -10,7 +10,7 @@ permalink: /projects/
 
 <div class="card">
   <h3 class="project-title">
-    <a href="{{ '/projects/vr-instrument/' | relative_url }}">PHONOSPHERE VR instrument</a>
+    <a href="{{ '/projects/phonosphere/' | relative_url }}">PHONOSPHERE VR instrument</a>
   </h3>
   <img src="{{ '/assets/images/phonosphere.png' | relative_url }}" alt="Screenshot of the PHONOSPHERE VR instrument interface" class="circle-image project-image" />
   <p>
