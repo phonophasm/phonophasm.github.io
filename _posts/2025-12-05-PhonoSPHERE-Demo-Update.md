@@ -5,6 +5,8 @@ date: 2025-12-05
 tags: [PHONOSPHERE, vr, music, devlog, update]
 ---
 
+![PHONOSPHERE beach environment header]({{ '/assets/posts/demo-update-1/beach.jpg' | relative_url }})
+
 PHONOSPHERE continues to evolve and grow.
 
 Over the past weeks I’ve been refining the demo experience to make it more immersive, more intuitive, and more musical. This update focuses on spatial layout, usability, and giving players immediate creative tools.
@@ -19,8 +21,6 @@ This brings PHONOSPHERE closer to its core idea.
 Music is not on a timeline.  
 It exists in space.
 
-[IMAGE PLACEHOLDER – 360 sphere layout screenshot in VR]
-
 ## 🧭 Optimised Menu & Cleaner Interface
 
 The interface has been simplified and refined.
@@ -34,7 +34,7 @@ The goal is to reduce friction — so you spend less time figuring out the inter
 
 PHONOSPHERE should feel playful, not technical.
 
-[IMAGE PLACEHOLDER – Updated menu UI screenshot]
+![Inside the PHONOSPHERE demo user experience]({{ '/assets/posts/demo-update-1/user-experience.jpg' | relative_url }})
 
 ## 🎛 Two Demo Sample Sets
 
@@ -47,8 +47,6 @@ Each set has its own character and spatial behaviour, allowing you to:
 - Feel how spatial placement changes perception
 
 These sets act as starting points — frameworks for improvisation rather than fixed compositions.
-
-[IMAGE PLACEHOLDER – Sample set visual / waveform / sphere close-up]
 
 ## 🎨 A Cleaner Spatial Layout
 
