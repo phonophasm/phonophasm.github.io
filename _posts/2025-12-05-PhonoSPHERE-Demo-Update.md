@@ -5,7 +5,7 @@ date: 2025-12-05
 tags: [PHONOSPHERE, vr, music, devlog, update]
 ---
 
-![PHONOSPHERE beach environment header]({{ '/assets/posts/demo-update-1/beach.png' | relative_url }})
+![PHONOSPHERE beach environment header]({{ '/assets/posts/Demo-update-1/beach.png' | relative_url }})
 
 PHONOSPHERE continues to evolve and grow.
 
