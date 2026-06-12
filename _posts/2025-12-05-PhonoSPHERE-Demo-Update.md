@@ -5,7 +5,7 @@ date: 2025-12-05
 tags: [PHONOSPHERE, vr, music, devlog, update]
 ---
 
-![PHONOSPHERE beach environment header]({{ '/assets/posts/demo-update-1/beach.png' | relative_url }})
+![PHONOSPHERE beach environment header]({{ '/assets/posts/Demo-update-1/beach.png' | relative_url }})
 
 PHONOSPHERE continues to evolve and grow.
 
@@ -34,7 +34,7 @@ The goal is to reduce friction — so you spend less time figuring out the inter
 
 PHONOSPHERE should feel playful, not technical.
 
-![Inside the PHONOSPHERE demo user experience]({{ '/assets/posts/demo-update-1/inside.png' | relative_url }})
+![Inside the PHONOSPHERE demo user experience]({{ '/assets/posts/Demo-update-1/inside.png' | relative_url }})
 
 ## 🎛 Two Demo Sample Sets
 
