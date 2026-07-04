@@ -14,10 +14,7 @@ The newest development connects that VR interaction to Reaper through OSC and a 
 
 This is a big step because it allows PHONOSPHERE to move beyond a self-contained VR prototype and become part of a professional spatial audio system.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for a PHONOSPHERE spatial audio workflow overview image">
-  <span>Image placeholder</span>
-  PHONOSPHERE spatial audio workflow overview
-</div>
+![PHONOSPHERE flow connection from Unity to headphones]({{ '/assets/posts/2026-06/flow connection.png' | relative_url }})
 
 ## Quest 3 to Python to Reaper
 
@@ -37,11 +34,6 @@ The basic chain is:
 
 This opens up a much richer performance setup. Instead of only playing audio inside the headset, PHONOSPHERE can now control external tracks, effects, and spatial positions in a DAW.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for a diagram of the Quest 3, Python, and Reaper connection">
-  <span>Image placeholder</span>
-  Quest 3, Python, and Reaper connection
-</div>
-
 ## Ambisonic Communication with Reaper
 
 One of the most important additions is ambisonic communication with Reaper.
@@ -53,6 +45,8 @@ This brings the project closer to a complete spatial audio instrument that can b
 The long-term aim is not only to place sounds around a player in VR, but to create sound worlds that can also be rendered, performed, documented, and potentially translated into immersive speaker environments.
 
 It also creates a path toward using PHONOSPHERE with immersive speaker systems as well as headphones.
+
+![PHONOSPHERE ambisonic spatial audio setup]({{ '/assets/posts/2026-06/ambisonics.png' | relative_url }})
 
 ## Hand Movement and Spatial Performance
 
@@ -76,11 +70,6 @@ A texture can be pushed away, circled, hidden, or made present.
 
 Spatial audio becomes something felt through action, not only edited visually on a screen.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for an image of hand-controlled spatial audio">
-  <span>Image placeholder</span>
-  Hand-controlled spatial audio
-</div>
-
 ## Why Use Reaper?
 
 Reaper is useful because it gives PHONOSPHERE access to a much deeper audio environment.
@@ -96,6 +85,8 @@ Inside Reaper, I can work with:
 - Effect processing
 - Live performance routing
 - Recording and rendering
+
+![PHONOSPHERE energy visualiser in Reaper]({{ '/assets/posts/2026-06/energy visualiser.png' | relative_url }})
 
 This gives PHONOSPHERE two possible modes of operation.
 
@@ -124,10 +115,7 @@ This opens up future possibilities such as:
 
 The current version is still experimental, but it is already making the system feel more flexible and expandable.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for an image of the Python desktop app">
-  <span>Image placeholder</span>
-  Python desktop bridge
-</div>
+![PHONOSPHERE Python desktop bridge app]({{ '/assets/posts/2026-06/bridge app.png' | relative_url }})
 
 ## Why This Matters for PHONOSPHERE
 
@@ -160,11 +148,6 @@ A standalone version could be simple and self-contained.
 A performance version could connect to Reaper and use full spatial audio processing.
 
 Both could share the same basic PHONOSPHERE logic: sounds arranged in space, controlled through movement, and saved as editable sound-world layouts.
-
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for a diagram of the hybrid standalone and Reaper workflow">
-  <span>Image placeholder</span>
-  Hybrid standalone and Reaper workflow
-</div>
 
 ## What Comes Next
 
