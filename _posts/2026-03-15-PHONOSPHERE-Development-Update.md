@@ -16,10 +16,7 @@ The earlier version focused on arranging sounds around the player in a 360-degre
 
 Over the past few months, I have been adding tools that make that world more playable, more flexible, and more useful for writing and performing music.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for a PHONOSPHERE development overview image">
-  <span>Image placeholder</span>
-  PHONOSPHERE development overview
-</div>
+![PHONOSPHERE layout overview]({{ '/assets/posts/2026-03/01 layout.png' | relative_url }})
 
 ## Looper Development
 
@@ -31,10 +28,7 @@ The looper is still developing, but it is already helping me think about PHONOSP
 
 Looping makes it possible to build a piece gradually through performance. Rhythms, textures, and melodic ideas can accumulate through repeated gestures without requiring a traditional music software timeline.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for an image of the looper system">
-  <span>Image placeholder</span>
-  Looper system in development
-</div>
+![PHONOSPHERE looper system in development]({{ '/assets/posts/2026-03/02 looper.png' | relative_url }})
 
 ## Sample Pad Experiments
 
@@ -50,11 +44,6 @@ The sample pad idea supports two different ways of playing the instrument:
 For performance, sample pads make the system feel responsive and playable.
 
 For composition, they provide a quick way to test sounds, choose material, and begin arranging it without needing to interrupt the VR workflow.
-
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for an image of the sample pad interface">
-  <span>Image placeholder</span>
-  Sample pad interface
-</div>
 
 ## Internal and External Sample Loading
 
@@ -77,10 +66,7 @@ This matters because PHONOSPHERE should not only be a system where users play my
 
 It should become a space where people can arrange their own sonic material.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for an image showing internal and external sample loading">
-  <span>Image placeholder</span>
-  Internal and external sample loading
-</div>
+![PHONOSPHERE menu for internal and external sample loading]({{ '/assets/posts/2026-03/03 menu.png' | relative_url }})
 
 ## General Setup Improvements
 
@@ -128,10 +114,7 @@ I want PHONOSPHERE to work in two ways:
 
 This would allow a self-contained version to run directly inside VR, while a DAW-connected version could provide ambisonic mixing, deeper spatial audio processing, recording, and live performance control.
 
-<div class="post-image-placeholder" role="img" aria-label="Placeholder for a diagram showing the Quest 3 and external audio software connection">
-  <span>Image placeholder</span>
-  Quest 3 and external audio software connection
-</div>
+![PHONOSPHERE future connection diagram for Quest 3 and external audio software]({{ '/assets/posts/2026-03/04 future connection.png' | relative_url }})
 
 PHONOSPHERE is still evolving, but the shape of the project is becoming clearer.
 
