@@ -16,9 +16,11 @@ permalink: /blog/
     {% endif %}
     <h3 style="margin:0;"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <small>{{ post.date | date: "%b %d, %Y" }}</small>
+    {% unless post.hero_image %}
     {% if post.excerpt %}
     <p>{{ post.excerpt }}</p>
     {% endif %}
+    {% endunless %}
   </div>
   {% endfor %}
 {% else %}
