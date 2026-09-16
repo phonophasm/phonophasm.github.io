@@ -7,6 +7,11 @@ permalink: /music/
 ## Music Projects
 
 <div class="card">
+  <img src="{{ '/assets/images/xplonati/cover.png' | relative_url }}" alt="XPLONATI album cover" class="circle-image project-image" />
+  <p><strong><a href="https://phonophasm.bandcamp.com/album/xplonati">XPLONATI (2026)</a></strong> – A new album written with the PHONOSPHERE VR Instrument, ambisonic audio and isochronic tones.</p>
+</div>
+
+<div class="card">
   <img src="{{ '/assets/images/yes.png' | relative_url }}" alt="YES album cover placeholder" class="circle-image project-image" />
   <p><strong><a href="{{ '/projects/yes/' | relative_url }}">YES (2024)</a></strong> – One-sitting performances with ambisonic movement and improvised lyrics paired to abstract visuals.</p>
 </div>
