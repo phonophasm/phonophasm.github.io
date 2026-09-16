@@ -8,7 +8,7 @@ permalink: /music/
 
 <div class="card">
   <img src="{{ '/assets/images/xplonati/cover.png' | relative_url }}" alt="XPLONATI album cover" class="circle-image project-image" />
-  <p><strong><a href="https://phonophasm.bandcamp.com/album/xplonati">XPLONATI (2026)</a></strong> – A new album written with the PHONOSPHERE VR Instrument, ambisonic audio and isochronic tones.</p>
+  <p><strong><a href="{{ '/projects/xplonati/' | relative_url }}">XPLONATI (2026)</a></strong> – A new album written with the PHONOSPHERE VR Instrument, ambisonic audio and isochronic tones.</p>
 </div>
 
 <div class="card">

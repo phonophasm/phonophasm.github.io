@@ -221,6 +221,17 @@ body {
   margin-bottom: 1rem;
 }
 
+.post-card-image-link {
+  display: block;
+}
+
+.post-card-image {
+  width: min(280px, 100%);
+  margin: 0 auto 1rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
 .project-title {
   margin: 0 0 0.75rem;
 }

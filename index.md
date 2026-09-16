@@ -20,6 +20,11 @@ Outside of my creative work, I enjoy travelling, swimming, cycling, yoga, and ke
 {% if recent and recent.size > 0 %}
   {% for post in recent %}
   <div class="card">
+    {% if post.hero_image %}
+    <a href="{{ post.url | relative_url }}" class="post-card-image-link">
+      <img src="{{ post.hero_image | relative_url }}" alt="{{ post.title }} cover art" class="post-card-image" />
+    </a>
+    {% endif %}
     <h3 style="margin:0;"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <small>{{ post.date | date: "%b %d, %Y" }}</small>
     {% if post.excerpt %}
